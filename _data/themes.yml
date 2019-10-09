@@ -45,7 +45,7 @@
 
 - name: Territorio, Edilizia e Urbanistica
   color: purple
-  metaname: edilizia
+  metaname: territorio
   image: /assets/images/icons/rosso_territorio.png
 
 - name: Cassetta degli attrezzi
