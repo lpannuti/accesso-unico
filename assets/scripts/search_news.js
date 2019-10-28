@@ -129,12 +129,14 @@ var applyUrlFilters = function() {
   console.log('categoryFilters: ', getAllUrlParams())
   if( categoryFilters ) {
     var search_pattern = '+category:' + categoryFilters;
+    hideSearchMask();
     searchFor( search_pattern );
   }
   // search for tags
   var tagFilters = getAllUrlParams().tags;
   if( tagFilters ) {
     var search_pattern = '+tags:' + tagFilters;
+    hideSearchMask();
     searchFor( search_pattern );
   }
 }
