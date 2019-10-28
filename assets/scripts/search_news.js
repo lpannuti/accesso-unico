@@ -76,10 +76,23 @@ function displaySearchResults(results, store) {
   $('#result-section').show();
 }
 
-$(function() {
-  //
-  //titleSuggestionHandling();
-  //numberSuggestionHandling();
+/*
+ * Hide search mask and show new search button
+ */
+var hideSearchMask = function() {
+  $( "#news-search-form" ).toggle();
+  $( "#new-search-btn" ).toggle();
+
+  $( "#new-search-btn" ).click(function() {
+    $( "#news-search-form" ).show( "blind", function() {
+      // Animation complete.
+    });
+    $( "#new-search-btn" ).hide();
+  });
+}
+
+$(function() 
+{
   applyUrlFilters();
 
   /* submit handling */
@@ -100,9 +113,10 @@ $(function() {
     if ( tags.indexOf('---') < 0 )
       search_pattern += ' +tags:' + tags;
 
-    console.log('searching for ' + search_pattern);
+    // console.log('searching for ' + search_pattern);
     var results = idx.search(search_pattern);
-    console.log(results);
+    // console.log(results);
+    hideSearchMask();
     displaySearchResults(results, window.news);
   });
 
