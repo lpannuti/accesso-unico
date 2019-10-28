@@ -76,55 +76,6 @@ function displaySearchResults(results, store) {
   $('#result-section').show();
 }
 
-/*var titleSuggestionHandling = function() {
-  console.log("titleSuggestionHandling");
-  var $titles = $('#titolo-listing > ul > li').clone()
-
-  $('#titolo').on('keydown', function(event) {
-    if (event.which === 9 && $(this).is(':focus')) {
-      $(this).blur()
-      return true
-    }
-  })
-
-  $('#titolo').on('keyup', function(event) {
-    var text = event.target.value.toLowerCase()
-
-    $('#titolo-listing > ul').html($titles.filter(function(index, elem) {
-      var title = $(elem).find('span').html().toLowerCase()
-      console.log("title: " + title)
-
-      if (title.indexOf(text) >= 0) {
-        return elem
-      }
-    }))
-    $('#titolo-listing > ul > li:first').trigger('mouseenter')
-  })
-}
-
-var numberSuggestionHandling = function() {
-  var $numbers = $('#numero-listing > ul > li').clone()
-
-  $('#numero').on('keydown', function(event) {
-    if (event.which === 9 && $(this).is(':focus')) {
-      $(this).blur()
-      return true
-    }
-  })
-
-  $('#numero').on('keyup', function(event) {
-    var text = event.target.value.toLowerCase()
-    $('#numero-listing > ul').html($numbers.filter(function(index, elem) {
-      var number = $(elem).find('span').html().toLowerCase()
-
-      if (number.indexOf(text) >= 0) {
-        return elem
-      }
-    }))
-    $('#numero-listing > ul > li:first').trigger('mouseenter')
-  })
-}*/
-
 $(function() {
   //
   //titleSuggestionHandling();
@@ -158,9 +109,10 @@ $(function() {
 })
 
 var applyUrlFilters = function() {
-  console.log('applyUrlFilters...');
+  console.log('news applyUrlFilters...');
   // search for theme
-  var categoryFilters = getAllUrlParams().category;
+  var categoryFilters = getAllUrlParams().theme;
+  console.log('categoryFilters: ', getAllUrlParams())
   if( categoryFilters ) {
     var search_pattern = '+category:' + categoryFilters;
     searchFor( search_pattern );
