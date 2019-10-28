@@ -18,7 +18,7 @@
                             <span class="u-background-70"></span>
                             {% for category in scheda.tema %}
                             <div class="home-servizio-div">
-                                <a class="u-textClean u-textWeight-700 u-text-r-xs u-color-50" href="{{site.baseurl}}/schede_search?theme={{category|slugize}}">
+                                <a class="u-textClean u-textWeight-700 u-text-r-xs u-color-50" href="{{site.baseurl}}/schede_search?theme={{category|escape}}">
                                     <img title="{{ category | capitalize }}" class="home-servizio-category-icon" src="{{ site.baseurl}}{{ site.iconsurl }}rosso_{{ category }}.png">
                                     <div class="home-servizio-category-text">{{category}}</div>
                                 </a>
