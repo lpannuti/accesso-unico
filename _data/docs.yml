@@ -119,7 +119,7 @@ docs:
     numero: 2
     tags:
         - elencoesperti
-        
+
   - title: Regolamento regionale 5 dicembre 2014, n. 5
     metaname: doc11
     oggetto: Regolamento di attuazione di cui all' articolo 7 della legge regionale 17 settembre 2013, n. 16 (Norme in materia di prevenzione delle cadute dall'alto) per lo svolgimento delle attività nell'ambito dell'edilizia
@@ -171,7 +171,7 @@ docs:
     oggetto: Accordo Conferenza Unificata 4 maggio 2017, n. 46/CU. Recepimento ed adeguamento da parte della Regione Umbria della modulistica unificata e standardizzata in materia di attività commerciali e assimilate ed edilizia.
     categoria: deliberazioni
     tema: semplificazione
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/modulistica/BUR_DGR700_2017.pdf"
+    url: "/docs/modulistica/BUR_DGR700_2017.pdf"
     anno: 2017
     ente: Regione Umbria
     numero: 700
@@ -184,7 +184,7 @@ docs:
     oggetto: Accordo Conferenza unificata 6 luglio 2017, n. 76/CU. Recepimento ed adeguamento da parte della Regione Umbria della modulistica unificata e standardizzata per la presentazione delle segnalazioni, comunicazioni ed istanze ed integrazione n. 77/CU (per estendere il modulo “Notifica ai fini della registrazione a tutti gli operatori del settore alimentare (OSA) laddove non sia prescritto il riconoscimento)”.
     categoria: deliberazioni
     tema: semplificazione
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/modulistica/BUR_DGR1088_2017.pdf"
+    url: "/docs/modulistica/BUR-DGR1088_2017.pdf"
     anno: 2017
     ente: Regione Umbria
     numero: 1088
@@ -197,7 +197,7 @@ docs:
     oggetto: D.G.R. 28 settembre 2017, n. 1088. Accordo Conferenza unificata 6 luglio 2017, n. 76/CU. Recepimento ed adeguamento da parte della Regione Umbria della modulistica unificata e standardizzata per la presentazione delle segnalazioni, comunicazioni ed istanze ed integrazione n. 77/CU (per estendere il modulo “Notifica ai fini della registrazione a tutti gli operatori del settore alimentare (OSA) laddove non sia prescritto il riconoscimento). - Rettifica errore materiale.
     categoria: deliberazioni
     tema: semplificazione
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/modulistica/BUR_DGR1088_2017.pdf"
+    url: "/docs/modulistica/BUR_DGR1188-2017.pdf"
     anno: 2017
     ente: Regione Umbria
     numero: 1188
@@ -210,7 +210,7 @@ docs:
     oggetto: Accordo conferenza unificata del 22 febbraio 2018, n.18/CU. Recepimento ed adeguamento da parte della Regione Umbria di ulteriore modulistica unificata e standardizzata per la presentazione delle segnalazioni, comunicazioni ed istanze in materia di attività commerciali e assimilate.
     categoria: deliberazioni
     tema: semplificazione
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/modulistica/DGR-274_26-03-2018.zip"
+    url: "/docs/modulistica/DGR-274_26-03-2018.zip"
     anno: 2017
     ente: Regione Umbria
     numero: 274
@@ -271,7 +271,7 @@ docs:
     oggetto: L.R. 10/2015. Articolo 2. Allegato A, paragrafo 1 lettera a) secondo alinea. Funzioni riallocate in regione in tema di Ambiente. Valutazioni ambientali AUA, AIA e VAS. Disposizioni attuative.
     categoria: deliberazioni
     tema: ambiente
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/docs/DGR_1656_29_12_2015.pdf"
+    url: "/docs/modulistica/DGR_1656_29_12_2015.pdf"
     anno: 2015
     ente: Regione Umbria
     numero: 1656
@@ -284,7 +284,7 @@ docs:
     oggetto: Direttiva tecnica regionale per la disciplina degli scarichi delle acque reflue - approvazione.
     categoria: deliberazioni
     tema: ambiente
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/docs/DGR_1024_19_09_2018_Bur.pdf"
+    url: "/docs/modulistica/DGR_1024_19_09_2018_Bur.pdf"
     anno: 2018
     ente: Regione Umbria
     numero: 1024
@@ -321,7 +321,7 @@ docs:
     oggetto: Modulistica unificata e standardizzata in materia di edilizia. Approvazione di modifiche e aggiornamenti.
     categoria: determinazioni
     tema: semplificazione
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/modulistica/BUR_DD3971_2019.pdf"
+    url: "/docs/modulistica/BUR_DD3971_2019.pdf"
     anno: 2019
     ente: Regione Umbria
     numero: 3971
@@ -334,7 +334,7 @@ docs:
     oggetto: Autorizzazione di carattere generale per le emissioni in atmosfera provenienti da stabilimenti con impianti ed attività in deroga ai sensi dell’art. 272, comma 2, del D.Lgs. n. 152/2006 e s.m. e i..
     categoria: deliberazioni
     tema: ambiente
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/modulistica/DD12724_2017.pdf"
+    url: "/docs/modulistica/DD12724_2017.pdf"
     anno: 2017
     ente: Regione Umbria
     numero: 12724
@@ -346,7 +346,7 @@ docs:
     oggetto: Istituzione dell’Elenco regionale dei professionisti da invitare alle procedure negoziate per l’affidamento di servizi attinenti all’architettura e all’ingegneria di importo inferiore a centomila euro. Disciplina delle modalità di gestione e requisiti per l’iscrizione dei soggetti nell’Elenco.
     categoria: deliberazioni
     tema: operepubbliche
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/docs/DGR1399_2010.pdf"
+    url: "/docs/modulistica/DGR1399_2010.pdf"
     anno: 2010
     ente: Regione Umbria
     numero: 1399
@@ -358,7 +358,7 @@ docs:
     oggetto: Elenco regionale dei professionisti di cui all’art. 21 della L.R. n. 3/2010 - Modifiche e integrazioni alla “Disciplina delle modalità di gestione e requisiti per l’iscrizione dei soggetti nell’Elenco regionale dei professionisti da invitare alle procedure negoziate per l’affidamento di servizi attinenti all’architettura e all’ingegneria di importo inferiore a centomila euro” approvata con deliberazione della Giunta regionale n. 1399/2010 con le tipologie di servizio di competenza degli archeologi e dei professionisti delle tecnologie dell’informazione e comunicazione e requisiti per l’iscrizione.
     categoria: deliberazioni
     tema: operepubbliche
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/docs/DGR341_2015.pdf"
+    url: "/docs/modulistica/DGR341_2015.pdf"
     anno: 2015
     ente: Regione Umbria
     numero: 341
