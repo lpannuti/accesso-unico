@@ -7,7 +7,7 @@
 # - entries with "utenza" key are visible only for that profiles
 
 - title: "Cosa è"
-  file: "cosa_è.md"
+  file: "cosae.md"
 
 - title: "Come funziona"
   file: "come_funziona.md"
