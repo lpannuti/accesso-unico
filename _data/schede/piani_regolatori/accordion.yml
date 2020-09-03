@@ -7,8 +7,8 @@
 # - entries with "utenza" key are visible only for that profiles
 
 
-- title: "Cosa offre"
-  file: "cosa_offre.md"
+- title: "Cosa è"
+  file: "cosae.md"
 
-- title: "A chi è rivolto"
-  file: "a_chi.md"
+- title: "Come funziona"
+  file: "come_funziona.md"
