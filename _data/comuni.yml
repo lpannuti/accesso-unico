@@ -27,7 +27,7 @@
   url: "http://www.comune.baschi.tr.it/c055007/zf/index.php/modulistica/index"
 - name: Bastia Umbra
   metaname: bastiaumbra
-  url: "https://www.comunebastiaumbra.gov.it/zf/index.php/suap"
+  url: "https://www.comune.bastia.pg.it/c054002/zf/index.php/suap/servizi-online/login"
 - name: Bettona
   metaname: bettona
   url: "http://www.comune.bettona.pg.it/c054003/zf/index.php/modulistica"
@@ -42,7 +42,7 @@
   url: "https://suape.regione.umbria.it/frontend/index/B504/SS"
 - name: Cannara
   metaname: cannara
-  url: "http://www.comune.cannara.pg.it/servizi-line/urbanistica/recepita-la-modulistica-unificata-e-standardizzata-materia-di-attivit"
+  url: "https://comune.cannara.pg.it/home"
 - name: Cascia
   metaname: cascia
   url: "http://www.comune.cascia.pg.it/?page_id=415"
@@ -51,7 +51,7 @@
   url: "http://www.comune.castelgiorgio.tr.it/zf/index.php/modulistica/index"
 - name: Castel Ritaldi
   metaname: castelritaldi
-  url: "https://www.comune.castel-ritaldi.pg.it/pagine/modulistica-unificata-e-standardizzata-nazionale-c"
+  url: "https://www.comune.castel-ritaldi.pg.it/articoli/suape-001"
 - name: Castel Viscardo
   metaname: castelviscardo
   url: "http://www.comune.castelviscardo.tr.it/zf/index.php/modulistica/index"
@@ -60,7 +60,7 @@
   url: "https://suape.regione.umbria.it/frontend/index/C309/SS"
 - name: Cerreto di Spoleto
   metaname: cerretodispoleto
-  url: "https://comune.cerretodispoleto.pg.it/"
+  url: "https://comune.cerretodispoleto.pg.it/68-MODULISTICA-UNIFICATA-E-STANDARDIZZATA-COMMERCIO.html"
 - name: Citerna
   metaname: citerna
   url: "http://www.halleyweb.com/c054011/zf/index.php/modulistica/index"
@@ -75,7 +75,7 @@
   url: "http://www.halleyweb.com/c054014/zf/index.php/modulistica/index"
 - name: Corciano
   metaname: corciano
-  url: "http://www.halleyweb.com/c054015/zf/index.php/suap"
+  url: "https://suape.regione.umbria.it/frontend/index/C990/SS"
 - name: Costacciaro
   metaname: costacciaro
   url: "http://pratiche.pa.umbria.it/costacciaro/AreaRiservata/Contenuti/default.aspx?alias=D108&software=SS"
@@ -120,13 +120,13 @@
   url: "https://suape.regione.umbria.it/frontend/index/E256/SS"
 - name: Lisciano Niccone
   metaname: liscianoniccone
-  url: "http://www.lisciano.org/c054025/zf/index.php/modulistica/index"
+  url: "https://www.lisciano.org/comune/servizi-online/modulistica/s-u-a-p-e"
 - name: Lugnano in Teverina
   metaname: lugnanointeverina
   url: "https://suape.regione.umbria.it/frontend/index/E729/SS"
 - name: Magione
   metaname: magione
-  url: "http://suap.pa.umbria.it/magione/Contenuti/default.aspx?alias=E805&software="
+  url: "https://suape.regione.umbria.it/frontend/index/E805/SS"
 - name: Marsciano
   metaname: marsciano
   url: "https://suape.regione.umbria.it/frontend/index/E975/SS"
@@ -255,7 +255,7 @@
   url: "https://suape.regione.umbria.it/frontend/index/L188/SS"
 - name: Torgiano
   metaname: torgiano
-  url: "http://www.comune.torgiano.pg.it/pagine/area-tecnica-edilizia-privata-suape"
+  url: "http://www.comune.torgiano.pg.it/pagine/area-governo-del-territorio-lavori-pubblici"
 - name: Trevi
   metaname: trevi
   url: "https://suape.regione.umbria.it/frontend/index/L397/SS"
