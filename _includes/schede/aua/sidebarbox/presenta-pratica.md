@@ -1,2 +1,2 @@
-Vai allo sportello Suape del Comune dove risiede l'impianto
+Scegli il Comune interessato per avere informazioni online sul Suape
 {% include comuni_select.html %}
