@@ -1,13 +1,26 @@
-Possono richiedere l'iscrizione nell'Elenco i soggetti:
+Gli operatori professionali che hanno la propria sede legale in Umbria e che ricadono in una o più delle seguenti categorie:
 
-a) professionisti, singoli od associati;
+- Operatori Professionali (OP) che introducono o spostano nell'Unione piante, prodotti vegetali e altri oggetti per i quali è rispettivamente richiesto un certificato fitosanitario o un passaporto delle piante;
 
-b) società tra professionisti;
+- OP autorizzati a rilasciare passaporti delle piante;
 
-c) società di ingegneria;
+- OP che richiedono il rilascio di certificati in esportazione, riesportazione e pre-esportazione;
 
-d) consorzi stabili di società tra professionisti e di società di ingegneria;
+- OP autorizzati ad applicare i marchi ISPM 15.
 
-e) archeologi;
+L’**Operatore Professionale** deve essere iscritto al Registro delle Imprese presso la Camera di Commercio, Industria, Artigianato e Agricoltura (C.C.I.A.A.) competente per territorio.
 
-f) limitatamente ai servizi di collaudo ed ai servizi di supporto tecnico amministrativo al Responsabile Unico del Procedimento, anche i dipendenti di pubbliche amministrazioni.
+Sono invece esclusi dalla registrazione al RUOP:
+
+- Gli OP che forniscono **esclusivamente e direttamente agli utilizzatori finali piccoli quantitativi** di piante, prodotti vegetali e altri oggetti, attraverso mezzi diversi dalla vendita tramite contratti a distanza;
+
+- Quelli che forniscono esclusivamente e direttamente agli utilizzatori finali piccoli quantitativi di **sementi** (fatta eccezione per le sementi che devono circolare con il passaporto delle piante);
+
+- Gli operatori la cui attività si limita esclusivamente al **trasporto** di piante, prodotti vegetali e altri oggetti, compresi gli oggetti di ogni tipo con l'utilizzo di materiale da imballaggio in legno per conto di un altro operatore professionale.
+
+ATTENZIONE:
+Per alcune categorie di operatori professionali non è prevista la registrazione al RUOP, ma è obbligatorio essere in possesso dell’autorizzazione rilasciata dal Servizio fitosanitario ai sensi dell’articolo 19 del D.lgs 214/2005. Tali categorie sono:
+
+- I produttori, i centri di raccolta collettivi, i centri di trasformazione e i commercianti all’ingrosso di tuberi di patata da consumo;
+
+- Coloro che producono e commercializzano piccole quantità di piante e prodotti vegetali destinati esclusivamente ad utilizzatori finali attraverso la vendita diretta.

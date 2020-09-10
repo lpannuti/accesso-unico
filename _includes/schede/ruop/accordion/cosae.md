@@ -1,11 +1,7 @@
-L'Elenco comprende i professionisti da invitare alle procedure negoziate per l'affidamento di servizi attinenti all'architettura e all'ingegneria di importo inferiore a centomila euro.
+È un Registro nazionale (RUOP) degli **operatori professionali** (OP) Istituito dal Regolamento (UE) 2016/2031 e tenuto dai Servizi Fitosanitari regionali.
 
-È **strumento di trasparenza e semplificazione per gli iscritti** poiché i professionisti non devono produrre documentazione per ogni singolo avviso.
+A partire dal 14 dicembre 2019 il RUOP sostituisce il Registro Ufficiale dei Produttori (RUP) previsto dalla precedente normativa fitosanitaria, gli iscritti al vecchio **RUP** sono stati **trasferiti di ufficio** al RUOP senza la necessità di alcun adempimento burocratico, né del pagamento di alcuna tariffa.
 
-È **strumento di supporto per tutte le stazioni appaltanti** al fine di individuare i soggetti da mettere in gara senza necessità di provvedervi di volta in volta con appositi avvisi.
+La registrazione al RUOP è unica sul territorio nazionale, il numero di registrazione include il codice di due lettere stabilito dalla norma ISO per lo Stato italiano (IT), il codice ISTAT della Regione ove ricade la sede legale dell’Operatore, più un numero di 4 cifre assegnato i n automatico all’atto della registrazione.
 
-L'Elenco viene **utilizzato obbligatoriamente** dai responsabili del procedimento degli **uffici regionali** che devono affidare servizi tecnici e **può essere utilizzato** anche dai responsabili unici del procedimento delle **altre amministrazioni pubbliche dell’Umbria** individuando i soggetti da invitare secondo propri criteri.
-
-Leggi qui le **FAQ / Quesiti ricorrenti** curati dal servizio regionale competente
-
-[http://www.regione.umbria.it/opere-pubbliche/quesiti-ricorrenti-faq](http://www.regione.umbria.it/opere-pubbliche/quesiti-ricorrenti-faq)
+Per operatore professionale (OP) s’intende un soggetto che svolge a titolo professionale una o più attività di impianto, riproduzione, produzione, coltivazione, moltiplicazione, messa a disposizione sul mercato, immagazzinamento e spostamento nel territorio dell'Unione e nei Paesi Terzi di vegetali, parti di vegetali, prodotti vegetali e agli altri oggetti e ne è giuridicamente responsabile.

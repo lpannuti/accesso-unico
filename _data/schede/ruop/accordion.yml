@@ -12,7 +12,7 @@
     - imprese
     - cittadini
 
-- title: "Chi può registrarsi"
+- title: "Chi deve registrarsi"
   file: "chi.md"
   utenza:
     - imprese
