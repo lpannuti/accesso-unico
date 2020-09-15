@@ -1,7 +1,5 @@
-Registro Ufficiale degli Operatori Professionali (RUOP)
+[Registro Ufficiale degli Operatori Professionali - RUOP]({{site.baseurl}}/schede/ruop/cittadini/index.html)
 
-Tariffa fitosanitaria
+[Nulla osta all'importazione di materiale sementiero]({{site.baseurl}}/schede/nullaostaimport/cittadini/index.html)
 
-Nulla osta importazione materiale sementiero
-
-Certificazione fitosanitaria per l'esportazione
+[Certificazione fitosanitaria per l'esportazione]({{site.baseurl}}/schede/certificazionefitosanitaria/cittadini/index.html)

@@ -6,7 +6,7 @@ tema: agricoltura
 tipo: pratica
 title: Nulla-osta all’importazione di materiale sementiero
 description: Documentazione necessaria per l’importazione da Paesi terzi di alcune sementi
-subtitle: servizi fitosanitari, RUOP, sementi, importazione, extra Ue
+subtitle: servizi fitosanitari, RUOP, sementi, importazione, extra Ue, servizio fitosanitario
 status: Livello2
 statusLink: /onboard
 evidenza: no

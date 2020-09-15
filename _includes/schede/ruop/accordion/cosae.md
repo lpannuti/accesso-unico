@@ -1,4 +1,4 @@
-È un Registro nazionale (RUOP) degli **operatori professionali** (OP) Istituito dal Regolamento (UE) 2016/2031 e tenuto dai Servizi Fitosanitari regionali.
+È un Registro nazionale degli **operatori professionali** (OP) Istituito dal Regolamento (UE) 2016/2031 e tenuto dai Servizi Fitosanitari regionali.
 
 A partire dal 14 dicembre 2019 il RUOP sostituisce il Registro Ufficiale dei Produttori (RUP) previsto dalla precedente normativa fitosanitaria, gli iscritti al vecchio **RUP** sono stati **trasferiti di ufficio** al RUOP senza la necessità di alcun adempimento burocratico, né del pagamento di alcuna tariffa.
 

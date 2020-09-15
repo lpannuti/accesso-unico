@@ -10,7 +10,7 @@ Gli operatori professionali che hanno la propria sede legale in Umbria e che ric
 
 L’**Operatore Professionale** deve essere iscritto al Registro delle Imprese presso la Camera di Commercio, Industria, Artigianato e Agricoltura (C.C.I.A.A.) competente per territorio.
 
-Sono invece esclusi dalla registrazione al RUOP:
+Sono esclusi dalla registrazione al RUOP:
 
 - Gli OP che forniscono **esclusivamente e direttamente agli utilizzatori finali piccoli quantitativi** di piante, prodotti vegetali e altri oggetti, attraverso mezzi diversi dalla vendita tramite contratti a distanza;
 
@@ -18,8 +18,9 @@ Sono invece esclusi dalla registrazione al RUOP:
 
 - Gli operatori la cui attività si limita esclusivamente al **trasporto** di piante, prodotti vegetali e altri oggetti, compresi gli oggetti di ogni tipo con l'utilizzo di materiale da imballaggio in legno per conto di un altro operatore professionale.
 
-ATTENZIONE:
-Per alcune categorie di operatori professionali non è prevista la registrazione al RUOP, ma è obbligatorio essere in possesso dell’autorizzazione rilasciata dal Servizio fitosanitario ai sensi dell’articolo 19 del D.lgs 214/2005. Tali categorie sono:
+**ATTENZIONE**:
+
+Non hanno l’obbligo di registrazione al RUOP ma **devono essere in possesso dell’autorizzazione** rilasciata dal Servizio fitosanitario regionale ai sensi dell’articolo 19 del D.lgs 214/2005:
 
 - I produttori, i centri di raccolta collettivi, i centri di trasformazione e i commercianti all’ingrosso di tuberi di patata da consumo;
 
