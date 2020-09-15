@@ -1,26 +1,17 @@
-Gli operatori professionali che hanno la propria sede legale in Umbria e che ricadono in una o più delle seguenti categorie:
+Possono richiedere il rilascio del certificato fitosanitario tutti gli **operatori professionali iscritti al Registro Ufficiale degli Operatori Professionali (RUOP)**, istituito ai sensi del Regolamento (UE) 2016/2031egestito dal Servizio Fitosanitario regionale istituito presso la Regione Umbria.
 
-- Operatori Professionali (OP) che introducono o spostano nell'Unione piante, prodotti vegetali e altri oggetti per i quali è rispettivamente richiesto un certificato fitosanitario o un passaporto delle piante;
+Il certificato può essere rilasciato, su richiesta dell'operatore professionale, se sono soddisfatte anche le seguenti condizioni:
 
-- OP autorizzati a rilasciare passaporti delle piante;
+-	l'operatore professionale ha **sotto il proprio controllo** la pianta, il prodotto vegetale o altro oggetto destinato all'esportazione;
 
-- OP che richiedono il rilascio di certificati in esportazione, riesportazione e pre-esportazione;
+-	è garantito che tale pianta, prodotto vegetale o altro oggetto rispetti le **prescrizioni fitosanitarie per l'importazione da parte del Paese Terzo**, previa acquisizione delle relative informazioni attraverso:
 
-- OP autorizzati ad applicare i marchi ISPM 15.
+    - ispezioni, campionamenti e prove effettuate sulle piante, sui prodotti vegetali o altri oggetti sul luogo di produzione o le sue vicinanze;
 
-L’**Operatore Professionale** deve essere iscritto al Registro delle Imprese presso la Camera di Commercio, Industria, Artigianato e Agricoltura (C.C.I.A.A.) competente per territorio.
+    - informazioni ufficiali sullo status dell'organismo nocivo nel sito di produzione, nella zona o paese di origine delle piante, dei prodotti vegetali o altri oggetti;
 
-Sono invece esclusi dalla registrazione al RUOP:
+    - eventuale presenza del "passaporto delle piante";
 
-- Gli OP che forniscono **esclusivamente e direttamente agli utilizzatori finali piccoli quantitativi** di piante, prodotti vegetali e altri oggetti, attraverso mezzi diversi dalla vendita tramite contratti a distanza;
+    - presenza del marchio per il materiale di imballaggio di legno;
 
-- Quelli che forniscono esclusivamente e direttamente agli utilizzatori finali piccoli quantitativi di **sementi** (fatta eccezione per le sementi che devono circolare con il passaporto delle piante);
-
-- Gli operatori la cui attività si limita esclusivamente al **trasporto** di piante, prodotti vegetali e altri oggetti, compresi gli oggetti di ogni tipo con l'utilizzo di materiale da imballaggio in legno per conto di un altro operatore professionale.
-
-ATTENZIONE:
-Per alcune categorie di operatori professionali non è prevista la registrazione al RUOP, ma è obbligatorio essere in possesso dell’autorizzazione rilasciata dal Servizio fitosanitario ai sensi dell’articolo 19 del D.lgs 214/2005. Tali categorie sono:
-
-- I produttori, i centri di raccolta collettivi, i centri di trasformazione e i commercianti all’ingrosso di tuberi di patata da consumo;
-
-- Coloro che producono e commercializzano piccole quantità di piante e prodotti vegetali destinati esclusivamente ad utilizzatori finali attraverso la vendita diretta.
+    - informazioni ufficiali contenute nel certificato fitosanitario di importazione, qualora le piante, i prodotti vegetali o altri oggetti siano stati introdotti nel territorio dell'Unione da un Paese Terzo.
