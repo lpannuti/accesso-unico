@@ -8,11 +8,7 @@ L’importo del pagamento si determina sulla base della tipologia di autorizzazi
 
 3. OP iscritti al RUOP e con autorizzazione all'uso del passaporto delle piante CE per Zone protette: per ogni centro aziendale: **100,00 euro**.
 
-**ATTENZIONE:**
-
-la tariffa annuale legata all’autorizzazione all’**Uso del passaporto delle piante (PP e ZP) deve essere versata dall'OP in relazione ad ogni centro aziendale autorizzato nel quale sono svolti i relativi controlli ufficiali**.
-
-**Se i Centri aziendali di uno stesso operatore professionale ricadono in Regioni differenti, l'OP dovrà versare la tariffa ad ogni Servizio fitosanitario regionale competente.**
+**ATTENZIONE:** la tariffa annuale legata all’autorizzazione all’**Uso del passaporto delle piante (PP e ZP) deve essere versata dall'OP in relazione ad ogni centro aziendale autorizzato nel quale sono svolti i relativi controlli ufficiali**. **Se i Centri aziendali di uno stesso operatore professionale ricadono in Regioni differenti, l'OP dovrà versare la tariffa ad ogni Servizio fitosanitario regionale competente.**
 
 Il **pagamento** della tariffa fitosanitaria **si può effettuare online** attraverso il servizio **pagoUmbria** a cui si viene automaticamente indirizzati collegandosi al servizio pubblicato sul portale servizi della Regione Umbria all'indirizzo [https://serviziinrete.regione.umbria.it](https://serviziinrete.regione.umbria.it).
 
