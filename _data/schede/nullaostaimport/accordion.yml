@@ -12,20 +12,20 @@
     - imprese
     - cittadini
 
-- title: "Chi può ottenere l'attestato"
+- title: "Chi la può richiedere"
   file: "chi.md"
   utenza:
     - imprese
     - cittadini
 
-- title: "Come fare domanda"
+- title: "Come presentare la richiesta"
   file: "come.md"
   utenza:
     - imprese
     - cittadini
 
-- title: "Durata e costi"
-  file: "costi.md"
+- title: "Durata"
+  file: "durata.md"
   utenza:
     - imprese
     - cittadini
