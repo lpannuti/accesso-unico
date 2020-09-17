@@ -10,9 +10,3 @@
   utenza:
     - imprese
     - cittadini
-
-- title: Servizi collegati
-  file: servizicollegati.md
-  utenza:
-    - imprese
-    - cittadini
