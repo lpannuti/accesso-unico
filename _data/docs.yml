@@ -500,7 +500,7 @@ docs:
     url: "https://www.regione.umbria.it/documents/18/1776226/D.M.+4+giugno+1997/4cfff2e8-e93d-42f5-8e11-34c6fe8b94b6"
     anno: 1997
     ente:
-    numero: 9999
+    numero: 99
     tags:
         - certificazionefitosanitaria
         - nullaostaimport
@@ -513,7 +513,7 @@ docs:
     url: "https://www.regione.umbria.it/documents/18/1776226/D.M.+4+aprile+1997+Commercializzazione+delle+piantine+di+ortaggi+e+dei+materiali+di+moltiplicazione+di+ortaggi+escluso+le+sementi/b0752d6d-6828-4989-9feb-3eff44c2f8e6"
     anno: 1997
     ente:
-    numero: 9999
+    numero: 99
     tags:
         - certificazionefitosanitaria
 
@@ -525,7 +525,7 @@ docs:
     url: "https://www.regione.umbria.it/documents/18/1776226/D.M.+4+aprile+1997/2cd67a35-008b-4f98-aa2f-78f1e04747a5"
     anno: 1997
     ente:
-    numero: Serie generale GU n. 126
+    numero: 126
     tags:
         - certificazionefitosanitaria
 
@@ -549,7 +549,7 @@ docs:
     url: "http://www.regioni.it/news/2018/02/27/conferenza-stato-regioni-del-22-02-2018-accordo-sul-documento-relativo-allo-standard-professionale-e-formativo-di-manutentore-del-verde-552020/"
     anno: 2018
     ente:
-    numero: 50/CSR
+    numero: 50
     tags:
         - manutenzioneverde
 
