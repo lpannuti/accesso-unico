@@ -463,3 +463,141 @@ docs:
     numero: 31
     tags:
         - autorizzazionepaesaggistica
+
+  - title: Regolamento (UE) 2016/2031 del Parlamento europeo e del Consiglio del 26 ottobre 2016
+    metaname: doc43
+    oggetto: Misure di protezione contro gli organismi nocivi per le piante, che modifica i regolamenti (UE) n. 228/2013, (UE) n. 652/2014 e (UE) n. 1143/2014 del Parlamento europeo e del Consiglio e abroga le direttive 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE e 2007/33/CE del Consiglio.
+    categoria: regolamenti
+    tema: agricoltura
+    url: "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32016R2031"
+    anno: 2016
+    ente:
+    numero: 2031
+    tags:
+        - certificazionefitosanitaria
+        - nullaostaimport
+        - ruop
+
+  - title: Decreto Legislativo 19 agosto 2005, n. 214
+    metaname: doc44
+    oggetto: Attuazione della direttiva 2002/89/CE concernente le misure di protezione contro l'introduzione e la diffusione nella Comunità di organismi nocivi ai vegetali o ai prodotti vegetali.
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;214"
+    anno: 2014
+    ente:
+    numero: 214
+    tags:
+        - certificazionefitosanitaria
+        - nullaostaimport
+        - ruop
+
+  - title: Decreto 4 giugno 1997
+    metaname: doc45
+    oggetto: Trasferimento alle Regioni del nulla – osta per l’importazione di materiale sementiero originario dei Paesi terzi.
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.regione.umbria.it/documents/18/1776226/D.M.+4+giugno+1997/4cfff2e8-e93d-42f5-8e11-34c6fe8b94b6"
+    anno: 1997
+    ente:
+    numero: 9999
+    tags:
+        - certificazionefitosanitaria
+        - nullaostaimport
+
+  - title: Decreto 14 aprile 1997
+    metaname: doc46
+    oggetto: Recepimento delle direttive della Commissione n. 93/61/CEE del 2 luglio 1993 e n. 93/62/CEE del 5 luglio 1993, relative alle norme tecniche sulla commercializzazione delle piantine di ortaggi e dei materiali di moltiplicazione di ortaggi, ad eccezione delle sementi.
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.regione.umbria.it/documents/18/1776226/D.M.+4+aprile+1997+Commercializzazione+delle+piantine+di+ortaggi+e+dei+materiali+di+moltiplicazione+di+ortaggi+escluso+le+sementi/b0752d6d-6828-4989-9feb-3eff44c2f8e6"
+    anno: 1997
+    ente:
+    numero: 9999
+    tags:
+        - certificazionefitosanitaria
+
+  - title: Decreto 14 aprile 1997
+    metaname: doc47
+    oggetto: Recepimento delle direttive della Commissione n. 93/48/CEE del 23 giugno 1993, n. 93/64/CEE del 5 luglio 1993 e n. 93/79/CEE del 21 settembre 1993, relative alle norme tecniche sulla commercializzazione dei materiali di moltiplicazione delle piante da frutto e delle piante da frutto destinate alla produzione di frutto.
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.regione.umbria.it/documents/18/1776226/D.M.+4+aprile+1997/2cd67a35-008b-4f98-aa2f-78f1e04747a5"
+    anno: 1997
+    ente:
+    numero: Serie generale GU n. 126
+    tags:
+        - certificazionefitosanitaria
+
+  - title: Legge 28 luglio 2016, n. 154
+    metaname: doc48
+    oggetto: Deleghe al Governo e ulteriori disposizioni in semplificazione, razionalizzazione e competitività dei settori agricolo e agroalimentare, nonché sanzioni in materia di pesca illegale.
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016;154~art20-com1"
+    anno: 2016
+    ente:
+    numero: 154
+    tags:
+        - manutenzioneverde
+
+  - title: Accordo Stato-Regioni del 22 febbraio 2018
+    metaname: doc49
+    oggetto: Accordo, ai sensi dell’articolo 4 del d.lgs. 28 agosto 1997, n. 281, sul Documento relativo allo Standard professionale e formativo di manutentore del verde, predisposto in attuazione dell'articolo 12, comma 2, della legge 28 luglio 2016, n. 154.
+    categoria: normativa
+    tema: agricoltura
+    url: "http://www.regioni.it/news/2018/02/27/conferenza-stato-regioni-del-22-02-2018-accordo-sul-documento-relativo-allo-standard-professionale-e-formativo-di-manutentore-del-verde-552020/"
+    anno: 2018
+    ente:
+    numero: 50/CSR
+    tags:
+        - manutenzioneverde
+
+  - title: Deliberazione della Giunta Regionale 16 aprile 2020, n. 270
+    metaname: doc50
+    oggetto: Modifica della DGR 974 del 10/09/18 relativa all’”adozione del regolamento che stabilisce le modalità di attuazione dell’art. 12 della L. 154/16 - Esercizio dell'attività di manutenzione del verde “, proroga dei termini per la presentazione dell’istanza di riconoscimento di esenzione dalla formazione.
+    categoria: deliberazioni
+    tema: agricoltura
+    url: "/docs/modulistica/DGR_270_2020.pdf"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 270
+    tags:
+        - manutenzioneverde
+
+  - title: Deliberazione della Giunta Regionale 10 settembre 2018, n. 974
+    metaname: doc51
+    oggetto: Recepimento dell’accordo in conferenza Stato Regioni del 22 febbraio 2018 relativo allo “Standard Professionale e formativo per l’attività di Manutenzione del verde”(Repertorio atti n. 50/CSR del 22.02.2018 della Presidenza del Consiglio dei Ministri) e conseguente modifica della DGR n. 460 del 26.04.2017 che stabilisce le modalità di attuazione dell’art. 12 della L. 154/2016 - Esercizio dell'attività di manutenzione del verde.
+    categoria: deliberazioni
+    tema: agricoltura
+    url: "/docs/modulistica/DGR_974_2018.pdf"
+    anno: 2018
+    ente: Regione Umbria
+    numero: 974
+    tags:
+        - manutenzioneverde
+
+
+  - title: Determinazione Dirigenziale 12 dicembre 2019, n. 12846
+    metaname: doc52
+    oggetto: Applicazione dei Regolamenti (UE) 2016/2031 e (UE) 2017/625. Approvazione del Registro ufficiale degli operatori professionali (RUOP) con sede legale in Umbria.
+    categoria: determinazioni
+    tema: agricoltura
+    url: "https://www.regione.umbria.it/documents/18/18849016/DD+12846+12.12.2019+RUOP.pdf/e28b388f-d35b-403f-a583-900a579928ee"
+    anno: 2019
+    ente: Regione Umbria
+    numero: 12846
+    tags:
+        - ruop
+
+  - title: Determinazione Dirigenziale 8 gennaio 2020, n. 38
+    metaname: doc53
+    oggetto: Applicazione dei Regolamenti (UE) 2016/2031 e (UE) 2017/625. Approvazione del Registro ufficiale degli operatori professionali (RUOP) con sede legale in Umbria – primo aggiornamento del registro pubblicato con DD 12846 del 12/12/2019.
+    categoria: determinazioni
+    tema: agricoltura
+    url: "https://www.regione.umbria.it/documents/18/18849016/DD.+n.38+del+08_01_20.pdf/03b4bcfc-63ee-40fe-870d-e17359b3ff4b"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 38
+    tags:
+        - ruop
