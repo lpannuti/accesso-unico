@@ -30,6 +30,18 @@
     - imprese
     - cittadini
 
+- title: "Passaporto delle piante"
+  file: "passaportopiante.md"
+  utenza:
+    - imprese
+    - cittadini
+
+- title: "Autorizzazione al rilascio del passaporto delle piante"
+  file: "autrilasciopassaporto.md"
+  utenza:
+    - imprese
+    - cittadini
+
 - title: "Costi"
   file: "costi.md"
   utenza:

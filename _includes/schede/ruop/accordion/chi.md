@@ -20,7 +20,7 @@ Sono esclusi dalla registrazione al RUOP:
 
 **ATTENZIONE**:
 
-Non hanno l’obbligo di registrazione al RUOP ma **devono essere in possesso dell’autorizzazione** rilasciata dal Servizio fitosanitario regionale ai sensi dell’articolo 19 del D.lgs 214/2005:
+**Non** hanno l’obbligo di registrazione al RUOP ma **devono essere in possesso dell’autorizzazione** rilasciata dal Servizio fitosanitario regionale ai sensi dell’articolo 19 del D.lgs 214/2005:
 
 - I produttori, i centri di raccolta collettivi, i centri di trasformazione e i commercianti all’ingrosso di tuberi di patata da consumo;
 

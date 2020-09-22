@@ -1,4 +1,4 @@
-Da corrispondere **una tantum al momento della presentazione della richiesta** di registrazione al RUOP:
+Da corrispondere **una tantum al momento della presentazione della richiesta** di registrazione al RUOP o della **domanda di autorizzazione al rilascio del passaporto** se fatta in un secondo momento::
 
 - marca da bollo da **16 euro**;
 
@@ -10,7 +10,7 @@ ed opzionalmente:
 
 - **controlli fitosanitari** alla produzione ed alla circolazione per le aziende iscritte al RUOP titolari di autorizzazione all’uso del **passaporto delle piante per zone protette**: **100 euro**.
 
-Il **pagamento** della tariffa corrispondente alla registrazione **si può effettuare online** attraverso il servizio **pagoUmbria** a cui si viene automaticamente indirizzati a **conclusione della procedura online di compilazione della richiesta**.
+Il **pagamento** della tariffa corrispondente **si può effettuare online** attraverso il servizio **pagoUmbria** a cui si viene automaticamente indirizzati a **conclusione della procedura online di compilazione della richiesta**.
 
 Si può effettuare il pagamento **anche attraverso questi canali** ed allora occorre **allegare alla richiesta anche la ricevuta di versamento**:
 
