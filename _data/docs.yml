@@ -6,7 +6,7 @@ category:
   - name: Atti
     metaname: atti
   - name: Documentazione Utile
-    metaname: utilità
+    metaname: utility
 
 docs:
   - title: D.P.R. 6 giugno 2001, n. 380
@@ -605,7 +605,7 @@ docs:
   - title: Vademecum Tariffa Fitosanitaria
     metaname: doc54
     oggetto: Aggiornamenti e modalità operative per l'anno 2021
-    categoria: utilità
+    categoria: utility
     tema: agricoltura
     url: "https://www.regione.umbria.it/documents/18/1776256/tariffa+fitosanitaria+Umb.pdf/51f53899-22e7-4a2e-8a7e-7d28f10cae8e"
     anno: 2020

@@ -4,9 +4,9 @@ object: manutenzioneverde
 utenza: imprese
 tema: agricoltura
 tipo: pratica
-title: Attestato idoneità di responsabile tecnico per la costruzione e manutenzione del verde
+title: Responsabile tecnico per la manutenzione del verde
 description: Il servizio Fitosanitario Regionale rilascia l'attestato d'idoneità di Responsabile tecnico per la costruzione e manutenzione del verde
-subtitle: servizi fitosanitari, manutenzione del verde, attestato, idoneità, responsabile, servizio fitosanitario
+subtitle: servizi fitosanitari, costruzione del verde, attestato, idoneità, responsabile, servizio fitosanitario
 status: Livello2
 statusLink: /onboard
 evidenza: no
