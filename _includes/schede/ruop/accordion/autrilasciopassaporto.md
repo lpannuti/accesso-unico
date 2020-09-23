@@ -4,8 +4,10 @@ Gli OP, qualora intendano avvalersi della facoltà di emettere il passaporto del
 
 La domanda può essere presentata:
 
--	**Contestualmente alla richiesta di registrazione al RUOP**, utilizzando le modalità previste dal **servizio online per la registrazione al RUOP - “Come registrarsi”**;
+-	**Contestualmente alla richiesta di registrazione al RUOP**
 
--	**In un secondo momento** utilizzando esclusivamente **un apposito servizio online** pubblicato sul portale servizi della Regione Umbria all'indirizzo https://serviziinrete.regione.umbria.it.
+-	**In un secondo momento**
+
+In entrambi i casi la domanda di autorizzazione va presentata **esclusivamente** utilizzando il **servizio online** pubblicato sul portale servizi della Regione Umbria all'indirizzo https://serviziinrete.regione.umbria.it.
 
 **Per accedere ai servizi online** è necessario essere in possesso delle **credenziali SPID**.
