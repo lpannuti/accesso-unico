@@ -23,12 +23,4 @@ Si può effettuare il pagamento **anche attraverso questi canali** ed allora occ
 
 - Intestazione: REGIONE UMBRIA SERVIZIO RAGIONERIA E FISCALITA' REGIONALE
 
-- Causale: Tariffa fitosanitaria.
-
-Nella causale occorre aggiungere una o più delle seguenti informazioni a seconda della tipologia di autorizzazione ottenuta:
-
-1. numero di autorizzazione regionale/anno di riferimento
-
-2. numero di autorizzazione regionale/anno di riferimento - passaporto normale
-
-3. numero di autorizzazione regionale/anno di riferimento - passaporto ZP
+- Causale: Tariffa fitosanitaria + anno di riferimento.
