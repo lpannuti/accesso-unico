@@ -23,4 +23,6 @@ Si può effettuare il pagamento **anche attraverso questi canali** ed allora occ
 
 - Intestazione: REGIONE UMBRIA SERVIZIO RAGIONERIA E FISCALITA' REGIONALE
 
-- Causale: Tariffa fitosanitaria + anno di riferimento.
+- **Causale: Tariffa fitosanitaria + anno di riferimento**.
+
+Per ulteriori informazioni sulla **Tariffa Fitosanitaria**, le **sanzioni** e il  **ravvedimento operoso** [leggi le disposizioni](https://www.regione.umbria.it/documents/18/1776256/tariffa+fitosanitaria+Umb.pdf/51f53899-22e7-4a2e-8a7e-7d28f10cae8e) predisposte dal Servizio Fitosanitario Regionale.
