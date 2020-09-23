@@ -14,4 +14,4 @@ Leggi il  [Manuale della procedura online](https://www.regione.umbria.it/documen
 2 - corrispondere **entro e non oltre il 31 gennaio** al Servizio Fitosanitario regionale **una tariffa annuale**, aggiornata con D.M. 12 aprile 2006.
 La **tariffa fitosanitaria** ha validità dal 1° gennaio al 31 dicembre di ogni anno.
 
-Leggi le disposizioni predisposte dal Servizio Fitosanitario Regionale per importi e modalità di pagamento della [Tariffa Fitosanitaria](https://www.regione.umbria.it/documents/18/1776256/tariffa+fitosanitaria+Umb.pdf/51f53899-22e7-4a2e-8a7e-7d28f10cae8e)  
+Leggi le disposizioni predisposte dal Servizio Fitosanitario Regionale per importi e modalità di pagamento della [Tariffa Fitosanitaria](https://www.regione.umbria.it/documents/18/1776256/tariffa+fitosanitaria+Umb.pdf/51f53899-22e7-4a2e-8a7e-7d28f10cae8e), delle **sanzioni e ravvedimento operoso**.  
