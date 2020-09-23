@@ -2,11 +2,11 @@
 
 L’importo del pagamento si determina sulla base della tipologia di autorizzazione ottenuta:
 
-1. OP iscritti al RUOP, senza l'autorizzazione all'uso del passaporto delle piante CE: **25,00 euro**
+1. Controlli fitosanitari alla produzione ed alla circolazione per gli O.P. iscritti al R.U.O.P.: **25,00 euro**
 
-2. OP iscritti al RUOP e con autorizzazione all'uso del passaporto delle piante CE per Zone non protette: per ogni centro aziendale: **50,00 euro**
+2. Controlli fitosanitari alla produzione ed alla circolazione per le aziende iscritte al R.U.O. P. titolari di autorizzazione all'uso del passaporto delle piante per zone non protette: **50,00 euro**
 
-3. OP iscritti al RUOP e con autorizzazione all'uso del passaporto delle piante CE per Zone protette: per ogni centro aziendale: **100,00 euro**.
+3. Controlli fitosanitari alla produzione ed alla circolazione per le aziende iscritte al R.U.O. P. titolari di autorizzazione all'uso del passaporto delle piante per zone protette: **100,00 euro**.
 
 **ATTENZIONE:** la tariffa annuale legata all’autorizzazione all’**Uso del passaporto delle piante (PP e ZP) deve essere versata dall'OP in relazione ad ogni centro aziendale autorizzato nel quale sono svolti i relativi controlli ufficiali**. **Se i Centri aziendali di uno stesso operatore professionale ricadono in Regioni differenti, l'OP dovrà versare la tariffa ad ogni Servizio fitosanitario regionale competente.**
 

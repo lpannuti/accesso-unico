@@ -4,11 +4,11 @@ Da corrispondere **una tantum al momento della presentazione della richiesta** d
 
 ed opzionalmente:
 
-- rilascio dell’**autorizzazione all’uso del passaporto delle piante** di cui all’art. 78 del Reg. (UE) 2016/2031: **100 euro**;
+- **Euro 25** per il controllo annuale a tutti gli Operatori Professionali iscritti al RUOP (eccetto gli esportatori);
 
-- **controlli fitosanitari** alla produzione ed alla circolazione per le aziende iscritte al RUOP titolari di autorizzazione all’uso del **passaporto delle piante per zone non protette**: **50 euro**;
+- **Euro 50 per i controlli fitosanitari** alla produzione ed alla circolazione per le aziende iscritte al RUOP titolari di autorizzazione all’uso del **passaporto delle piante per ZONE NON PROTETTE**;
 
-- **controlli fitosanitari** alla produzione ed alla circolazione per le aziende iscritte al RUOP titolari di autorizzazione all’uso del **passaporto delle piante per zone protette**: **100 euro**.
+- **Euro 100,00 per i controlli fitosanitari** alla produzione ed alla circolazione per le aziende iscritte al RUOP titolari di autorizzazione all’uso del **passaporto delle piante per ZONE PROTETTE**.
 
 Il **pagamento** della tariffa corrispondente **si può effettuare online** attraverso il servizio **pagoUmbria** a cui si viene automaticamente indirizzati a **conclusione della procedura online di compilazione della richiesta**.
 
@@ -20,4 +20,4 @@ Si può effettuare il pagamento **anche attraverso questi canali** ed allora occ
 
 •	Intestazione: REGIONE UMBRIA SERVIZIO RAGIONERIA E FISCALITA' REGIONALE
 
-•	 Causale: Tariffa fitosanitaria
+•	 Causale: Tariffa fitosanitaria + anno di riferimento
