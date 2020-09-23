@@ -3,10 +3,10 @@ category:
     metaname: normativa
   - name: Regolamenti
     metaname: regolamenti
-  - name: Deliberazioni di Giunta
-    metaname: deliberazioni
-  - name: Determinazioni Dirigenziali
-    metaname: determinazioni
+  - name: Atti
+    metaname: atti
+  - name: Documentazione Utile
+    metaname: utilità
 
 docs:
   - title: D.P.R. 6 giugno 2001, n. 380
@@ -169,7 +169,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 20 giugno 2017, n. 700
     metaname: doc15
     oggetto: Accordo Conferenza Unificata 4 maggio 2017, n. 46/CU. Recepimento ed adeguamento da parte della Regione Umbria della modulistica unificata e standardizzata in materia di attività commerciali e assimilate ed edilizia.
-    categoria: deliberazioni
+    categoria: atti
     tema: semplificazione
     url: "/docs/modulistica/BUR_DGR700_2017.pdf"
     anno: 2017
@@ -182,7 +182,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 28 settembre 2017, n. 1088
     metaname: doc16
     oggetto: Accordo Conferenza unificata 6 luglio 2017, n. 76/CU. Recepimento ed adeguamento da parte della Regione Umbria della modulistica unificata e standardizzata per la presentazione delle segnalazioni, comunicazioni ed istanze ed integrazione n. 77/CU (per estendere il modulo “Notifica ai fini della registrazione a tutti gli operatori del settore alimentare (OSA) laddove non sia prescritto il riconoscimento)”.
-    categoria: deliberazioni
+    categoria: atti
     tema: semplificazione
     url: "/docs/modulistica/BUR-DGR1088_2017.pdf"
     anno: 2017
@@ -195,7 +195,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 16 ottobre 2017, n. 1188
     metaname: doc17
     oggetto: D.G.R. 28 settembre 2017, n. 1088. Accordo Conferenza unificata 6 luglio 2017, n. 76/CU. Recepimento ed adeguamento da parte della Regione Umbria della modulistica unificata e standardizzata per la presentazione delle segnalazioni, comunicazioni ed istanze ed integrazione n. 77/CU (per estendere il modulo “Notifica ai fini della registrazione a tutti gli operatori del settore alimentare (OSA) laddove non sia prescritto il riconoscimento). - Rettifica errore materiale.
-    categoria: deliberazioni
+    categoria: atti
     tema: semplificazione
     url: "/docs/modulistica/BUR_DGR1188-2017.pdf"
     anno: 2017
@@ -208,7 +208,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 26 marzo 2018, n. 274
     metaname: doc18
     oggetto: Accordo conferenza unificata del 22 febbraio 2018, n.18/CU. Recepimento ed adeguamento da parte della Regione Umbria di ulteriore modulistica unificata e standardizzata per la presentazione delle segnalazioni, comunicazioni ed istanze in materia di attività commerciali e assimilate.
-    categoria: deliberazioni
+    categoria: atti
     tema: semplificazione
     url: "/docs/modulistica/DGR-274_26-03-2018.zip"
     anno: 2017
@@ -269,7 +269,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 29 dicembre 2015, n. 1656
     metaname: doc23
     oggetto: L.R. 10/2015. Articolo 2. Allegato A, paragrafo 1 lettera a) secondo alinea. Funzioni riallocate in regione in tema di Ambiente. Valutazioni ambientali AUA, AIA e VAS. Disposizioni attuative.
-    categoria: deliberazioni
+    categoria: atti
     tema: ambiente
     url: "/docs/modulistica/DGR_1656_29_12_2015.pdf"
     anno: 2015
@@ -282,7 +282,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 19 settembre 2018, n. 1024
     metaname: doc28
     oggetto: Direttiva tecnica regionale per la disciplina degli scarichi delle acque reflue - approvazione.
-    categoria: deliberazioni
+    categoria: atti
     tema: ambiente
     url: "/docs/modulistica/DGR_1024_19_09_2018_Bur.pdf"
     anno: 2018
@@ -319,7 +319,7 @@ docs:
   - title: Determinazione dirigenziale 30 aprile 2019, n. 3971
     metaname: doc31
     oggetto: Modulistica unificata e standardizzata in materia di edilizia. Approvazione di modifiche e aggiornamenti.
-    categoria: determinazioni
+    categoria: atti
     tema: semplificazione
     url: "/docs/modulistica/BUR_DD3971_2019.pdf"
     anno: 2019
@@ -332,7 +332,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 29 novembre 2017, n. 12724
     metaname: doc32
     oggetto: Autorizzazione di carattere generale per le emissioni in atmosfera provenienti da stabilimenti con impianti ed attività in deroga ai sensi dell’art. 272, comma 2, del D.Lgs. n. 152/2006 e s.m. e i..
-    categoria: deliberazioni
+    categoria: atti
     tema: ambiente
     url: "/docs/modulistica/DD12724_2017.pdf"
     anno: 2017
@@ -344,7 +344,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 11 ottobre 2010, n. 1399
     metaname: doc33
     oggetto: Istituzione dell’Elenco regionale dei professionisti da invitare alle procedure negoziate per l’affidamento di servizi attinenti all’architettura e all’ingegneria di importo inferiore a centomila euro. Disciplina delle modalità di gestione e requisiti per l’iscrizione dei soggetti nell’Elenco.
-    categoria: deliberazioni
+    categoria: atti
     tema: operepubbliche
     url: "/docs/modulistica/DGR1399_2010.pdf"
     anno: 2010
@@ -356,7 +356,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 23 marzo 2015, n. 341
     metaname: doc34
     oggetto: Elenco regionale dei professionisti di cui all’art. 21 della L.R. n. 3/2010 - Modifiche e integrazioni alla “Disciplina delle modalità di gestione e requisiti per l’iscrizione dei soggetti nell’Elenco regionale dei professionisti da invitare alle procedure negoziate per l’affidamento di servizi attinenti all’architettura e all’ingegneria di importo inferiore a centomila euro” approvata con deliberazione della Giunta regionale n. 1399/2010 con le tipologie di servizio di competenza degli archeologi e dei professionisti delle tecnologie dell’informazione e comunicazione e requisiti per l’iscrizione.
-    categoria: deliberazioni
+    categoria: atti
     tema: operepubbliche
     url: "/docs/modulistica/DGR341_2015.pdf"
     anno: 2015
@@ -368,7 +368,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 19 luglio 2019, n. 894
     metaname: doc35
     oggetto: Accordo Conferenza unificata del 17 aprile 2019, Repertorio n. 28/CU. Recepimento ed adeguamento da parte della Regione Umbria di moduli unificati e standardizzati per la presentazione delle segnalazioni, comunicazioni e istanze.
-    categoria: deliberazioni
+    categoria: atti
     tema: semplificazione
     url: "/docs/modulistica/BUR_DGR894_2019.pdf"
     anno: 2019
@@ -382,7 +382,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 27 settembre 2019, n. 1086
     metaname: doc36
     oggetto: Accordo Conferenza Unificata del 25 luglio 2019, Repertorio n. 73/CU. Recepimento ed adeguamento da parte della Regione Umbria di moduli unificati e standardizzati per la presentazione delle segnalazioni, comunicazioni e istanze.
-    categoria: deliberazioni
+    categoria: atti
     tema: semplificazione
     url: "/docs/modulistica/BUR_DGR1086_2019.pdf"
     anno: 2019
@@ -395,7 +395,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 26 febbraio 2020, n. 121
     metaname: doc37
     oggetto: Art. 21 della l.r. n. 3/2010 - Modifica della “Disciplina delle modalità di gestione e requisiti per l’iscrizione dei soggetti nell’Elenco regionale dei professionisti da invitare alle procedure negoziate per l’affidamento di servizi attinenti all’architettura e all’ingegneria di importo inferiore a centomila euro di cui alla legge regionale 21 gennaio 2010, n. 3 (Disciplina regionale dei lavori pubblici e norme in materia di regolarità contributiva per i lavori pubblici)” e ulteriori determinazioni.
-    categoria: deliberazioni
+    categoria: atti
     tema: operepubbliche
     url: "/docs/modulistica/DGR121_2020.pdf"
     anno: 2020
@@ -443,7 +443,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 8 febbraio 2010, n. 203
     metaname: doc41
     oggetto: Approvazione degli elenchi degli Enti in possesso e non dei requisiti di legge per l’esercizio delle funzioni amministrative delegate concernenti il rilascio della autorizzazione paesaggistica ai sensi dell'art. 146 del Dlgs n.42 del 2004.
-    categoria: deliberazioni
+    categoria: atti
     tema: territorio
     url: "/docs/modulistica/DGR 203_2010.pdf"
     anno: 2010
@@ -556,7 +556,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 16 aprile 2020, n. 270
     metaname: doc50
     oggetto: Modifica della DGR 974 del 10/09/18 relativa all’”adozione del regolamento che stabilisce le modalità di attuazione dell’art. 12 della L. 154/16 - Esercizio dell'attività di manutenzione del verde “, proroga dei termini per la presentazione dell’istanza di riconoscimento di esenzione dalla formazione.
-    categoria: deliberazioni
+    categoria: atti
     tema: agricoltura
     url: "/docs/modulistica/DGR_270_2020.pdf"
     anno: 2020
@@ -568,7 +568,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 10 settembre 2018, n. 974
     metaname: doc51
     oggetto: Recepimento dell’accordo in conferenza Stato Regioni del 22 febbraio 2018 relativo allo “Standard Professionale e formativo per l’attività di Manutenzione del verde”(Repertorio atti n. 50/CSR del 22.02.2018 della Presidenza del Consiglio dei Ministri) e conseguente modifica della DGR n. 460 del 26.04.2017 che stabilisce le modalità di attuazione dell’art. 12 della L. 154/2016 - Esercizio dell'attività di manutenzione del verde.
-    categoria: deliberazioni
+    categoria: atti
     tema: agricoltura
     url: "/docs/modulistica/DGR_974_2018.pdf"
     anno: 2018
@@ -581,7 +581,7 @@ docs:
   - title: Determinazione Dirigenziale 12 dicembre 2019, n. 12846
     metaname: doc52
     oggetto: Applicazione dei Regolamenti (UE) 2016/2031 e (UE) 2017/625. Approvazione del Registro ufficiale degli operatori professionali (RUOP) con sede legale in Umbria.
-    categoria: determinazioni
+    categoria: atti
     tema: agricoltura
     url: "https://www.regione.umbria.it/documents/18/18849016/DD+12846+12.12.2019+RUOP.pdf/e28b388f-d35b-403f-a583-900a579928ee"
     anno: 2019
@@ -593,11 +593,23 @@ docs:
   - title: Determinazione Dirigenziale 8 gennaio 2020, n. 38
     metaname: doc53
     oggetto: Applicazione dei Regolamenti (UE) 2016/2031 e (UE) 2017/625. Approvazione del Registro ufficiale degli operatori professionali (RUOP) con sede legale in Umbria – primo aggiornamento del registro pubblicato con DD 12846 del 12/12/2019.
-    categoria: determinazioni
+    categoria: atti
     tema: agricoltura
     url: "https://www.regione.umbria.it/documents/18/18849016/DD.+n.38+del+08_01_20.pdf/03b4bcfc-63ee-40fe-870d-e17359b3ff4b"
     anno: 2020
     ente: Regione Umbria
     numero: 38
+    tags:
+        - ruop
+
+  - title: Vademecum Tariffa Fitosanitaria
+    metaname: doc54
+    oggetto: Aggiornamenti e modalità operative per l'anno 2021
+    categoria: utilità
+    tema: agricoltura
+    url: "https://www.regione.umbria.it/documents/18/1776256/tariffa+fitosanitaria+Umb.pdf/51f53899-22e7-4a2e-8a7e-7d28f10cae8e"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 99
     tags:
         - ruop
