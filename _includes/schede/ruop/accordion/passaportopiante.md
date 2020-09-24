@@ -1,8 +1,8 @@
-È **un permesso necessario** per la piantagione e la ricoltivazione dei vegetali che **non** vengono ceduti a utilizzatori finali **non professionisti** e che **non rientrano nella categoria** sementi, fiori recisi, alberi di Natale, patate da consumo e altri prodotti vegetali non destinati a essere ulteriormente coltivati e che, pertanto, non pongono alcun **rischio fitosanitario**.
+È **un'autorizzazione necessaria** per la piantagione e la ricoltivazione dei vegetali che **non** vengono ceduti a utilizzatori finali **non professionisti** e che **non rientrano nella categoria** sementi, fiori recisi, alberi di Natale, patate da consumo e altri prodotti vegetali non destinati a essere ulteriormente coltivati e che, pertanto, non pongono alcun **rischio fitosanitario**.
 
 E’ un'**etichetta ufficiale** che deve essere apposta sull'unità di vendita di piante, prodotti vegetali e altri oggetti, prima del loro spostamento nel territorio dell'Unione e, se del caso, per la loro introduzione e il loro spostamento nelle zone protette, che attesta il rispetto di tutte le prescrizioni fitosanitarie previste dal regolamento 2016/203.
 
-L’etichetta, a norma del reg. UE 2016/2031 e al regolamento di esecuzione (UE) 2017/2313, **deve contenere i seguenti elementi**:
+L’etichetta, a norma del Reg. UE 2016/2031 e al Regolamento di esecuzione (UE) 2017/2313, **deve contenere i seguenti elementi**:
 
 •	bandiera dell'Unione in alto a sinistra stampata in bianco e nero o a colori;
 

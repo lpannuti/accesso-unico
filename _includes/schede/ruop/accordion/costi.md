@@ -1,4 +1,4 @@
-Da corrispondere **una tantum al momento della presentazione della richiesta** di registrazione al RUOP o della **domanda di autorizzazione al rilascio del passaporto** se fatta in un secondo momento:
+Da corrispondere **una tantum al momento della presentazione della Richiesta** di registrazione al RUOP o della **Domanda di autorizzazione al rilascio del passaporto** se fatta in un secondo momento:
 
 - marca da bollo da **16 euro**;
 
