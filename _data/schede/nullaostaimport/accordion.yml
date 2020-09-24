@@ -24,7 +24,7 @@
     - imprese
     - cittadini
 
-- title: "Durata"
+- title: "Durata e costi"
   file: "durata.md"
   utenza:
     - imprese
