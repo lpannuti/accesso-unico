@@ -192,7 +192,7 @@ manutenzioneverde:
     nome_ufficio: "Servizio Agricoltura sostenibile, servizi fitosanitari"
     indirizzo: "Via M. Angeloni n. 61 - 06124 Perugia"
     telefono: "0755045104"
-    email: "gsaltalamacchia@regione.umbria.it"
+    email:
     pec: "direzioneagricoltura.regione@postacert.umbria.it"
     nome_responsabile: "Ivana Stella"
     telefono_responsabile: "0755045795"
