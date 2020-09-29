@@ -477,6 +477,7 @@ docs:
         - certificazionefitosanitaria
         - nullaostaimport
         - ruop
+        - tariffafitosanitaria
 
   - title: Decreto Legislativo 19 agosto 2005, n. 214
     metaname: doc44
@@ -491,6 +492,7 @@ docs:
         - certificazionefitosanitaria
         - nullaostaimport
         - ruop
+        - tariffafitosanitaria
 
   - title: Decreto 4 giugno 1997
     metaname: doc45
@@ -589,6 +591,7 @@ docs:
     numero: 12846
     tags:
         - ruop
+        - tariffafitosanitaria
 
   - title: Determinazione Dirigenziale 8 gennaio 2020, n. 38
     metaname: doc53
@@ -601,6 +604,7 @@ docs:
     numero: 38
     tags:
         - ruop
+        - tariffafitosanitaria
 
   - title: Vademecum Tariffa Fitosanitaria
     metaname: doc54
@@ -613,6 +617,7 @@ docs:
     numero: 99
     tags:
         - ruop
+        - tariffafitosanitaria
 
   - title: Vademecum per l'esportazione
     metaname: doc55
