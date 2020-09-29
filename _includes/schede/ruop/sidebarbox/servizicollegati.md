@@ -1,3 +1,6 @@
+[Tariffa Fitosanitaria]({{site.baseurl}}/schede/tariffafitosanitaria/cittadini/index.html)
+
+
 [Certificazione fitosanitaria per l'esportazione]({{site.baseurl}}/schede/certificazionefitosanitaria/cittadini/index.html)
 
 

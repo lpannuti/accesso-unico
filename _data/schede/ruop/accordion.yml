@@ -47,9 +47,3 @@
   utenza:
     - imprese
     - cittadini
-
-- title: "Come si paga la tariffa annuale"
-  file: "tariffaannuale.md"
-  utenza:
-    - imprese
-    - cittadini
