@@ -10,19 +10,22 @@
   file: "cosae.md"
   utenza:
     - imprese
+    - cittadini
 
 - title: "Come presentare la comunicazione annuale"
   file: "come_comunicazione.md"
   utenza:
     - imprese
+    - cittadini
 
 - title: "Come presentare la domanda di autorizzazione alla riproduzione"
   file: "come_domanda.md"
   utenza:
     - imprese
+    - cittadini
 
 - title: "Costi e durata"
   file: "costi.md"
   utenza:
     - imprese
-  
+    - cittadini

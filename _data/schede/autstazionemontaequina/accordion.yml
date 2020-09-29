@@ -10,27 +10,32 @@
   file: "cosae.md"
   utenza:
     - imprese
+    - cittadini
 
 
 - title: "Chi la può richiedere"
   file: "chi.md"
   utenza:
     - imprese
+    - cittadini
 
 
 - title: "Come presentare la domanda"
   file: "come.md"
   utenza:
     - imprese
+    - cittadini
 
 
 - title: "Obblighi dei gestori"
   file: "obblighi.md"
   utenza:
     - imprese
+    - cittadini
 
 
 - title: "Costi e durata"
   file: "costi.md"
   utenza:
     - imprese
+    - cittadini
