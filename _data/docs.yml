@@ -630,3 +630,42 @@ docs:
     numero: 999
     tags:
         - certificazionefitosanitaria
+
+  - title: Legge 15 gennaio 1991, n. 30
+    metaname: doc56
+    oggetto: Disciplina della riproduzione animale
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.gazzettaufficiale.it/eli/id/1991/01/29/091G0052/sg"
+    anno: 1991
+    ente:
+    numero: 30
+    tags:
+        - elencostalloni
+        - autstazionemontaequina
+
+  - title: Legge 3 agosto 1999, n. 280
+    metaname: doc57
+    oggetto: Modifiche ed integrazioni alla legge 15 gennaio 1991, n. 30, recante disciplina della riproduzione animale, anche in attuazione della direttiva 94/28/CE del Consiglio del 23 giugno 1994
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.gazzettaufficiale.it/eli/id/1999/08/13/099G0356/sg"
+    anno: 1999
+    ente:
+    numero: 280
+    tags:
+        - elencostalloni
+        - autstazionemontaequina
+
+  - title: Regolamento regionale 27 febbraio 2003, n. 3
+    metaname: doc58
+    oggetto: Disciplina della riproduzione animale
+    categoria: normativa
+    tema: agricoltura
+    url: "http://leggi.crumbria.it/mostra_atto_stampabile.php?file=reg2003-03.xml"
+    anno: 2003
+    ente:
+    numero: 3
+    tags:
+        - elencostalloni
+        - autstazionemontaequina
