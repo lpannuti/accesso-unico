@@ -241,3 +241,36 @@ tariffafitosanitaria:
     nome_responsabile: "Ivana Stella"
     telefono_responsabile: "0755045795"
     email_responsabile: "istella@regione.umbria.it"
+
+zonepescaregolamentata:
+    descrizione_direzione: "Direzione regionale sviluppo economico, agricoltura, lavoro, istruzione, agenda digitale"
+    nome_ufficio: "Servizio Foreste, Montagna, Sistemi naturalistici e Faunistica-venatoria"
+    indirizzo: "Via M. Angeloni n. 61 - 06124 Perugia"
+    telefono: "0755045053"
+    email: "fgrohmann@regione.umbria.it"
+    pec: "direzioneagricoltura.regione@postacert.umbria.it"
+    nome_responsabile: "Lucia Ghetti"
+    telefono_responsabile: "0755045066"
+    email_responsabile: "lghetti@regione.umbria.it"
+
+licenzapescasportiva:
+    descrizione_direzione: "Direzione regionale sviluppo economico, agricoltura, lavoro, istruzione, agenda digitale"
+    nome_ufficio: "Servizio Foreste, Montagna, Sistemi naturalistici e Faunistica-venatoria"
+    indirizzo: "Via M. Angeloni n. 61 - 06124 Perugia"
+    telefono: "0755045053"
+    email: "fgrohmann@regione.umbria.it"
+    pec: "direzioneagricoltura.regione@postacert.umbria.it"
+    nome_responsabile: "Lucia Ghetti"
+    telefono_responsabile: "0755045066"
+    email_responsabile: "lghetti@regione.umbria.it"
+
+tesserinopesca:
+    descrizione_direzione: "Direzione regionale sviluppo economico, agricoltura, lavoro, istruzione, agenda digitale"
+    nome_ufficio: "Servizio Foreste, Montagna, Sistemi naturalistici e Faunistica-venatoria"
+    indirizzo: "Via M. Angeloni n. 61 - 06124 Perugia"
+    telefono: "0755045053"
+    email: "fgrohmann@regione.umbria.it"
+    pec: "direzioneagricoltura.regione@postacert.umbria.it"
+    nome_responsabile: "Lucia Ghetti"
+    telefono_responsabile: "0755045066"
+    email_responsabile: "lghetti@regione.umbria.it"

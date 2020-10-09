@@ -669,3 +669,75 @@ docs:
     tags:
         - elencostalloni
         - autstazionemontaequina
+
+  - title: Legge 13 marzo 1958, n. 250
+    metaname: doc59
+    oggetto: Previdenze a favore dei pescatori della piccola pesca marittima e delle acque interne.
+    categoria: normativa
+    tema: cacciapesca
+    url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-13;250"
+    anno: 1958
+    ente:
+    numero: 250
+    tags:
+        - zonepescaregolamentata
+
+  - title: Legge regionale 22 ottobre 2008, n. 15
+    metaname: doc60
+    oggetto: Norme per la tutela e lo sviluppo del patrimonio ittico regionale, la salvaguardia degli ecosistemi acquatici, l'esercizio della pesca professionale e sportiva e dell'acquacoltura.
+    categoria: normativa
+    tema: cacciapesca
+    url: "http://leggi.crumbria.it/mostra_atto.php?id=35854&v=FI,SA,TE,IS,VE,RA,MM&m=5&datafine=20190101"
+    anno: 2008
+    ente: Regione Umbria
+    numero: 15
+    tags:
+        - zonepescaregolamentata
+
+  - title: Regolamento regionale 15 febbraio 2011, n. 2
+    metaname: doc61
+    oggetto: Disciplina dell'attività di pesca professionale e sportiva nelle acque interne.
+    categoria: regolamenti
+    tema: cacciapesca
+    url: "http://leggi.crumbria.it/mostra_atto_stampabile.php?file=reg2011-02.xml"
+    anno: 2011
+    ente: Regione Umbria
+    numero: 2
+    tags:
+        - zonepescaregolamentata
+
+  - title: Deliberazione della Giunta Regionale 28 marzo 2019, n. 356
+    metaname: doc62
+    oggetto: Modifica della DGR n. 114 del 12/02/2018, allegato A) e approvazione dell'elenco dei campi gara e delle zone di pesca alla carpa senza limiti d'orario.
+    categoria: atti
+    tema: cacciapesca
+    url: "https://www.regione.umbria.it/documents/18/473522/DGR+356+28-3-2019/a154b393-325d-4e27-a21a-a0011bd8cbba"
+    anno: 2019
+    ente: Regione Umbria
+    numero: 356
+    tags:
+        - zonepescaregolamentata
+
+  - title: Deliberazione della Giunta Regionale 8 maggio 2020, n. 342
+    metaname: doc63
+    oggetto: Modifica della Delibera di Giunta Regionale n. 356 del 28/03/2019, allegato B).
+    categoria: atti
+    tema: cacciapesca
+    url: "https://www.regione.umbria.it/documents/18/473522/DGR+342+del+8-5-2020/8d475f1a-e4c6-4210-b245-dfb9bf4f7e9d"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 342
+    tags:
+        - zonepescaregolamentata
+
+  - title: Deliberazione della Giunta Regionale 9 settembre 2020, n. 805
+    metaname: doc64
+    oggetto: Modifica della Delibera di Giunta Regionale n. 342 del 8/05/2020 allegato b) – LAGO DI PIEDILUCO e tratto del FIUME VELINO ricadente nel territorio umbro– Zona a Regolamento Specifico.
+    categoria: atti
+    tema: cacciapesca
+    url: "https://www.regione.umbria.it/documents/18/7496821/DGR805-2020/8e2692f9-ab58-4e7b-b164-2376cf0a2777"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 805
+    tags:
+        - zonepescaregolamentata    

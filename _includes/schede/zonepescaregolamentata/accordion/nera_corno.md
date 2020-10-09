@@ -1,32 +1,25 @@
-**Legambiente Umbria**
+**Per esercitare la pesca negli** ecosistemi acquatici **del Nera e del Corno** occorre munirsi di un **permesso giornaliero di pesca a pagamento e prenotare la giornata** di pesca **esclusivamente** tramite **web app** dedicata curata da **Legambiente Umbria** a cui Regione Umbria - a partire da marzo 2019 - ha affidato la gestione e la valorizzazione del patrimonio ittico e di questi ecosistemi acquatici.
 
-A partire dal mese di marzo del 2019 la Regione Umbria ha affidato a **Legambiente Umbria** la gestione e la valorizzazione del patrimonio ittico e degli ecosistemi acquatici del Nera e del Corno.
+Legambiente si propone inoltre di svolgere una funzione di tutela dei corsi d’acqua interessati attraverso diverse attività illustrate nel sito [https://www.neranokill.it/](https://www.neranokill.it/).
 
-Legambiente si propone di svolgere una funzione di tutela dei corsi d’acqua interessati attraverso diverse attività illustrate nel sito [https://www.neranokill.it/](https://www.neranokill.it/).
+La specifica e diversa regolamentazione dei vari tratti dei due fiumi - indicati nel regolamento specifico (Allegato A DGR 805/2020) - può essere consultata scaricando l’apposita mappa ZRS No Kill della Valnerina dalla [pagina web curata da Legambiente](https://www.neranokill.it/zrs-no-kill-valnerina/).
 
-**Il permesso**
+Il regolamento fissa per ogni settore un **numero massimo giornaliero di pescatori**, è pertanto necessario **prenotarsi** indicando il giorno di pesca ed il settore.
 
-I vari tratti dei due fiumi – indicati nel regolamento specifico (Allegato A DGR 805/2020) – sono suddivisi in quattro settori geografici e idromorfologici  in cui vige specifica e diversa regolamentazione.
+Il **permesso verrà rilasciato dietro pagamento della tariffa giornaliera** di € 5,00 qualora il settore prescelto **non superi il limite delle prenotazioni giornaliere**.
 
-**Per esercitare la pesca è necessario dotarsi di apposito permesso.**
+**Come prenotare ed ottenere il permesso**
 
-Il permesso ha una **durata giornaliera** – qualora subentrassero condizioni fisico morfologiche dei corsi d’acqua tali da non consentire l’attività di pesca per l’intera giornata, sarà dato modo di recuperare la giornata prenotata.
+La prenotazione va fatta **esclusivamente online** utilizzando l’apposita web app PERMESSI E PRENOTAZIONI attivabile dal sito [https://www.neranokill.it/](https://www.neranokill.it/).
 
-Il regolamento fissa per ogni settore un numero massimo giornaliero di pescatori, nei limiti di tutto ciò l’utente che ha ottenuto il permesso ha la possibilità di spostarsi, comunicandolo agli organi di vigilanza della zona, purché il settore prescelto non superi il limite delle prenotazioni giornaliere.
+Per procedere alla prenotazione è **necessario registrarsi**, **non** si può prenotare **più di una giornata di pesca per volta**.
 
-È previsto il **fermo pesca per tutti i settori nella giornata di giovedì**, con eccezione delle festività nazionali.
+**Non si può prenotare più di una giornata di pesca se prima non si è consumata quella già prenotata.**
 
+Selezionato il giorno di pesca scelto, il **pagamento della tariffa giornaliera** di € 5,00 avviene **esclusivamente** attraverso il sistema elettronico di pagamento per la Pubblica Amministrazione **PagoUmbria/PagoPA** a cui si verrà indirizzati a completamento della procedura di prenotazione.
 
-**Come prenotarsi**
+**E’ consentito solo il pagamento on-line mediante carta di credito, bonifico, sistema PayPal.**
 
-Dal sito [https://www.neranokill.it/](https://www.neranokill.it/) è possibile accedere al seguente sistema di prenotazione telematico:
+La webapp riceverà la conferma di avvenuto pagamento da parte del sistema PagoUMBRIA in un intervallo di tempo che può variare da pochi secondi a qualche minuto, durante questa attesa si consiglia di non procedere ad altre operazioni.
 
-•	cliccare PERMESSI E PRENOTAZIONI
-
-•	registrarsi per procedere successivamente con il login e una volta entrati nella APP cliccare sul box PRENOTARE per aprire la pagina dove è possibile selezionare sul calendario la giornata di pesca – non si può prenotare più di una giornata di pesca per volta
-
-•	il pagamento giornaliero stabilito in € 5,00 avviene tramite PagoUMBRIA reinderizzato dal sistema dove occorre inserire una e-mail necessaria per il ricevimento della notifica del pagamento
-
-•	attendere la conferma di PagoUMBRIA che avverrà in un tempo che può variare da pochi secondi a qualche minuto. Solo dopo questo passaggio il sistema della WEB APP riceve la conferma dell’avvenuto pagamento; durante questa attesa si consiglia di non tornare indietro nella navigazione pensando di avere tralasciato qualche passaggio
-
-•	selezionare sulla WEB APP “PRENOTAZIONI” per visualizzare la prenotazione effettuata e procedere con la visualizzazione del permesso di pesca e all’occorrenza della relativa stampa, o semplicemente del download del permesso in formato pdf sul proprio dispositivo.
+Dopo la conferma di avvenuto pagamento, il **permesso di pesca giornaliero** si può **visualizzare, stampare o scaricare** in formato pdf sul proprio dispositivo.

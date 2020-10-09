@@ -12,12 +12,12 @@
   utenza:
     - cittadini
 
-- title: "Tratti no kill nei fiumi Nera e Corno"
+- title: "Pescare nei tratti No Kill della Valnerina"
   file: "nera_corno.md"
   utenza:
     - cittadini
 
-- title: "Tratti no kill nel fiume Tevere"
+- title: "Pescare nei tratti No Kill dell'Alto Tevere"
   file: "tevere.md"
   utenza:
     - cittadini
