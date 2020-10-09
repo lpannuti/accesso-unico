@@ -10,12 +10,4 @@ Un diario di pesca, un segnacatture in cui vanno registrati immediatamente ed in
 
 **5 trote** è il numero massimo di catture giornaliere, **22 cm è la lunghezza minima** degli esemplari che possono essere trattenuti.
 
-È  rilasciato dalla Regione e distribuito anche dalle seguenti associazioni da questa delegate:
-
-[ARCI PESCA](http://www.arcipescafisa.it/index.jsp?comregione=38)
-
-F.I.P.S.A.S.
-
-ENAL PESCA
-
-LIBERA PESCA
+È rilasciato dal Servizio Foreste, Montagna, Sistemi naturalistici e Faunistica-venatoria – Sezione Tutela patrimonio ittico e pesca sportiva della Regione e può essere distribuito anche dalle seguenti associazioni da questa delegate: ARCI PESCA - F.I.P.S.A.S. – ENAL PESCA – LIBERA PESCA. 
