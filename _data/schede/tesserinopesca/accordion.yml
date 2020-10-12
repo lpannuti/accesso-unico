@@ -12,6 +12,15 @@
   utenza:
     - cittadini
 
+- title: "Chi lo può richiedere"
+  file: "chi.md"
+  utenza:
+    - cittadini
+
+- title: "Come richiederlo"
+  file: "come.md"
+  utenza:
+    - cittadini
 
 - title: "Modalità di pagamento, costi e durata"
   file: "modalita.md"
