@@ -2,7 +2,7 @@
 layout: post
 title:  "Modificato il giorno di apertura della pesca alla trota"
 titles_color: 'black'
-subtitle:
+subtitle: "La data di apertura della pesca alla trota viene spostata dall’ultima domenica di febbraio al 15 marzo"
 background:
 search_image:
 categories: [cacciapesca]
