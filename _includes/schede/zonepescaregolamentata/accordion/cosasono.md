@@ -6,7 +6,7 @@ Nell’[Allegato A della D.G.R. n. 805/2020][cd15d45f] sono indicati e circoscri
 
 - è vietato l'uso di particolari esche tra cui quelle naturali
 
-- è obbligatorio il rilascio immediato del pesce.
+- è obbligatorio il rilascio immediato del pesce (tecnica No Kill).
 
   [cd15d45f]: https://www.regione.umbria.it/documents/18/7496821/ZONE+DI+PESCA+A+REGOLAMENTO+SPECIFICO/8a2384af-d147-4a0c-950e-71e3e47a8ad2 "Vai al regolamento"
 

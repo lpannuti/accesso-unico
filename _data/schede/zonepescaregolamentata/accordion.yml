@@ -21,8 +21,3 @@
   file: "tevere.md"
   utenza:
     - cittadini
-
-- title: "Faq"
-  file: "faq.md"
-  utenza:
-    - cittadini
