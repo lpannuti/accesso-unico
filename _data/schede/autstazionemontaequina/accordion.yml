@@ -27,14 +27,14 @@
     - cittadini
 
 
-- title: "Obblighi dei gestori"
+- title: "Obblighi dei gestori di monta pubblica"
   file: "obblighi.md"
   utenza:
     - imprese
     - cittadini
 
 
-- title: "Costi e durata"
+- title: "Durata e costi"
   file: "costi.md"
   utenza:
     - imprese

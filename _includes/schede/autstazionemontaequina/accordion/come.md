@@ -1,13 +1,8 @@
-È possibile :
+• La **domanda di prima autorizzazione** (MOD. 1E) deve necessariamente essere inoltrata al Servizio regionale competente tramite i Servizi Veterinari competenti per territorio insieme alla Dichiarazione di assolvimento di imposta di bollo;
 
-•	fare **domanda di prima autorizzazione**  (MOD. 1E);
+• Il **Rinnovo dell’autorizzazione** (MOD. 2E) può essere inoltrato al Servizio regionale competente, direttamente dall’interessato, alla scadenza di questa, insieme alla Dichiarazione di assolvimento di imposta di bollo all’indirizzo Pec: [direzioneagricoltura.regione@postacert.umbria.it](direzioneagricoltura.regione@postacert.umbria.it).
 
-•	**rinnovare l’autorizzazione**  ( MOD. 2E ) alla scadenza di questa;
+• La **Richiesta integrativa per la pratica dell’Inseminazione Artificiale** (MOD. 3E), può essere presentata successivamente, nel caso in cui non sia stata fatta in sede richiesta di prima autorizzazione all’indirizzo Pec: [direzioneagricoltura.regione@postacert.umbria.it](direzioneagricoltura.regione@postacert.umbria.it).
 
-•	fare **richiesta integrativa per l’inseminazione artificiale**  ( MOD. 3E ), nel caso in cui non sia stata fatta al momento della presentazione della domanda di prima autorizzazione.
 
-Il gestore deve compilare lo specifico **modulo** (MOD. 1E oppure  MOD. 2E oppure MOD. 3E) insieme alla **Dichiarazione di assolvimento dell’imposta di bollo** e la prevista **Certificazione Sanitaria rilasciata dalla ASL – Settore Veterinario** da inviare a Regione Umbria all’indirizzo pec: [direzioneagricoltura.regione@postacert.umbria.it](direzioneagricoltura.regione@postacert.umbria.it).
-
-**NOTA**: Gli estremi della marca da bollo per la domanda vanno riportati nella modulistica a cui è allegata la dichiarazione di assolvimento del bollo.
-
-Al rilascio dell’autorizzazione alla stazione di monta viene associato un **codice identificativo CUN** da utilizzare nelle successive comunicazioni.
+**NOTA**: Gli estremi della prima marca da bollo della Dichiarazione di assolvimento di imposta di bollo, vanno riportati nello spazio apposito del modulo di domanda (MOD.1E-2E-3E).

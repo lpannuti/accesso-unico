@@ -1,17 +1,19 @@
-I gestori regolarmente iscritti alla CCIAA, senza pendenze penali, le cui stazioni di monta pubblica e privata posseggano i seguenti requisiti:
+L’autorizzazione per la gestione di una Stazione di Monta Naturale Equina Pubblica o Privata può essere chiesta da chiunque abbia i requisiti per la Stazione che intende gestire.
 
-•	devono disporre di **strutture e ricoveri adeguati** per gli animali e di un conveniente luogo per l'accoppiamento con presenza di idonea attrezzatura per la monta;
+I Servizi Veterinari competenti per territorio verificano se il richiedente è in possesso dei seguenti requisiti per la stazioni di monta che intende gestire:
 
-•	devono garantire le **necessarie misure di igiene e sanità** contro la diffusione delle malattie infettive e parassitarie;
+• **strutture e ricoveri adeguati** per gli animali e un conveniente luogo per l’accoppiamento con presenza di idonea attrezzatura per la monta;
 
-•	il **personale impiegato** deve essere **qualificato** per le specifiche mansioni cui è adibito;
+• che siano garantite le **necessarie misure di igiene e sanità** contro la diffusione delle malattie infettive e parassitarie;
 
-•	la stazione deve essere conforme alle disposizioni sul **benessere degli animali**;
+• che il **personale impiegato** sia **qualificato** per le specifiche mansioni cui è adibito;
 
-•	in caso di monta brada, devono essere garantiti quegli accorgimenti strutturali e organizzativi idonei a **evitare accoppiamenti indesiderati con altre mandrie**, di proprietà diversa, eventualmente coesistenti sullo stesso territorio.
+• che la stazione sia conforme alle disposizioni sul **benessere degli animali**;
 
-In caso di richiesta delle pratiche di inseminazione artificiale è necessario che la stazione:
+• che in caso di monta brada, siano garantiti quegli accorgimenti strutturali e organizzativi idonei a **evitare accoppiamenti indesiderati con altre mandrie**, di proprietà diversa, eventualmente coesistenti sullo stesso territorio.
 
-•	disponga di locali e attrezzature adeguati al prelievo e alla preparazione del materiale seminale fresco;
+In caso di richiesta delle pratiche di Inseminazione Artificiale è necessario che la stazione:
 
-•	garantisca il prelievo e l'utilizzo del seme fresco da parte di un veterinario.
+• disponga di locali e attrezzature adeguati al prelievo e alla preparazione del materiale seminale fresco;
+
+• garantisca il prelievo e l’utilizzo del seme fresco da parte di un Veterinario.
