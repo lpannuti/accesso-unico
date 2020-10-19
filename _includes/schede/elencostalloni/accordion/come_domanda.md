@@ -1,5 +1,3 @@
-Nel caso in cui il Cavallo e/o Asino Stallone **non sia iscritto** al libro genealogico o al registro anagrafico, o sia iscritto a un libro genealogico **non istituito in Italia**, **il gestore deve essere autorizzato alla riproduzione Stalloni**.
+Nel caso in cui il Cavallo o Asino Stallone **debba essere autorizzato alla riproduzione**, la domanda di autorizzazione va presentata compilando l’apposito modulo (MOD.STA) a cui va allegata la dichiarazione di assolvimento di imposta di bollo inviandoli al seguente indirizzo pec: [direzioneagricoltura.regione@postacert.umbria.it](direzioneagricoltura.regione@postacert.umbria.it).
 
-La domanda di autorizzazione va presentata compilando l’apposito modulo (MOD.ST ) a cui va allegata l’autodichiarazione di assolvimento del bollo inviandoli al seguente indirizzo pec: [direzioneagricoltura.regione@postacert.umbria.it](direzioneagricoltura.regione@postacert.umbria.it).
-
-**NOTA**: Gli estremi della marca da bollo per la domanda vanno riportati nella modulistica a cui è allegata la dichiarazione di assolvimento del bollo.
+**NOTA**: Gli estremi della prima marca da bollo della Dichiarazione di assolvimento di imposta di bollo, vanno riportati nello spazio apposito del modulo di domanda (MOD.STA).
