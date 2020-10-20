@@ -3,7 +3,7 @@ L’autorizzazione alla gestione di una Stazione di Monta Naturale Equina consen
 La Stazione di Monta Naturale Equina **Privata** permette al gestore di utilizzare i propri stalloni o gestiti ad altro titolo, autorizzati, per coprire le fattrici proprie.
 
 
-La Stazione di Monta Naturale Equina **Pubblica** permette al gestore di utilizzare i propri stalloni o gestiti ad altro titolo, autorizzati, per coprire le fattrici proprie o di terzi.
+La Stazione di Monta Naturale Equina **Pubblica** permette al gestore di utilizzare i propri stalloni o gestiti ad altro titolo, autorizzati, per coprire le fattrici proprie e di terzi.
 
 L’autorizzazione è rilasciata dalla Regione previa verifica del possesso dei requisiti richiesti da parte dei Servizi Veterinari delle Aziende Sanitarie Locali (ASL) competenti per territorio.
 
