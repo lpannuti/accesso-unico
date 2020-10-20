@@ -735,3 +735,27 @@ docs:
     numero: 342
     tags:
         - zonepescaregolamentata
+
+  - title: Determinazione Dirigenziale 6 ottobre 2020, n. 8824
+    metaname: doc64
+    oggetto: Titoli abilitativi edilizi. Aggiornamento della modulistica unificata.
+    categoria: atti
+    tema: semplificazione
+    url: "/docs/modulistica/DD8824_2020"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 8824
+    tags:
+        - ModulisticaUnificata
+
+  - title: Deliberazione della Giunta Regionale 9 settembre 2020, n. 805
+    metaname: doc65
+    oggetto: Modifica della Delibera di Giunta Regionale n. 342 del 8/05/2020 allegato b) LAGO DI PIEDILUCO e tratto del FIUME VELINO ricadente nel territorio umbro Zona a Regolamento Specifico.
+    categoria: atti
+    tema: cacciapesca
+    url: "/docs/modulistica/DD805_2020"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 805
+    tags:
+        - zonepescaregolamentata
