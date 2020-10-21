@@ -670,17 +670,6 @@ docs:
         - elencostalloni
         - autstazionemontaequina
 
-  - title: Legge 13 marzo 1958, n. 250
-    metaname: doc59
-    oggetto: Previdenze a favore dei pescatori della piccola pesca marittima e delle acque interne.
-    categoria: normativa
-    tema: cacciapesca
-    url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-13;250"
-    anno: 1958
-    ente:
-    numero: 250
-    tags:
-        - zonepescaregolamentata
 
   - title: Legge regionale 22 ottobre 2008, n. 15
     metaname: doc60
@@ -721,8 +710,7 @@ docs:
     numero: 356
     tags:
         - zonepescaregolamentata
-        - licenzapescasportiva
-        - tesserinopesca
+
 
   - title: Deliberazione della Giunta Regionale 8 maggio 2020, n. 342
     metaname: doc63
