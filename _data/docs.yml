@@ -3,10 +3,10 @@ category:
     metaname: normativa
   - name: Regolamenti
     metaname: regolamenti
-  - name: Deliberazioni di Giunta
-    metaname: deliberazioni
-  - name: Determinazioni Dirigenziali
-    metaname: determinazioni
+  - name: Atti
+    metaname: atti
+  - name: Documentazione Utile
+    metaname: utility
 
 docs:
   - title: D.P.R. 6 giugno 2001, n. 380
@@ -119,7 +119,7 @@ docs:
     numero: 2
     tags:
         - elencoesperti
-        
+
   - title: Regolamento regionale 5 dicembre 2014, n. 5
     metaname: doc11
     oggetto: Regolamento di attuazione di cui all' articolo 7 della legge regionale 17 settembre 2013, n. 16 (Norme in materia di prevenzione delle cadute dall'alto) per lo svolgimento delle attività nell'ambito dell'edilizia
@@ -169,9 +169,9 @@ docs:
   - title: Deliberazione della Giunta Regionale 20 giugno 2017, n. 700
     metaname: doc15
     oggetto: Accordo Conferenza Unificata 4 maggio 2017, n. 46/CU. Recepimento ed adeguamento da parte della Regione Umbria della modulistica unificata e standardizzata in materia di attività commerciali e assimilate ed edilizia.
-    categoria: deliberazioni
+    categoria: atti
     tema: semplificazione
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/modulistica/BUR_DGR700_2017.pdf"
+    url: "/docs/modulistica/BUR_DGR700_2017.pdf"
     anno: 2017
     ente: Regione Umbria
     numero: 700
@@ -182,9 +182,9 @@ docs:
   - title: Deliberazione della Giunta Regionale 28 settembre 2017, n. 1088
     metaname: doc16
     oggetto: Accordo Conferenza unificata 6 luglio 2017, n. 76/CU. Recepimento ed adeguamento da parte della Regione Umbria della modulistica unificata e standardizzata per la presentazione delle segnalazioni, comunicazioni ed istanze ed integrazione n. 77/CU (per estendere il modulo “Notifica ai fini della registrazione a tutti gli operatori del settore alimentare (OSA) laddove non sia prescritto il riconoscimento)”.
-    categoria: deliberazioni
+    categoria: atti
     tema: semplificazione
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/modulistica/BUR_DGR1088_2017.pdf"
+    url: "/docs/modulistica/BUR-DGR1088_2017.pdf"
     anno: 2017
     ente: Regione Umbria
     numero: 1088
@@ -195,9 +195,9 @@ docs:
   - title: Deliberazione della Giunta Regionale 16 ottobre 2017, n. 1188
     metaname: doc17
     oggetto: D.G.R. 28 settembre 2017, n. 1088. Accordo Conferenza unificata 6 luglio 2017, n. 76/CU. Recepimento ed adeguamento da parte della Regione Umbria della modulistica unificata e standardizzata per la presentazione delle segnalazioni, comunicazioni ed istanze ed integrazione n. 77/CU (per estendere il modulo “Notifica ai fini della registrazione a tutti gli operatori del settore alimentare (OSA) laddove non sia prescritto il riconoscimento). - Rettifica errore materiale.
-    categoria: deliberazioni
+    categoria: atti
     tema: semplificazione
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/modulistica/BUR_DGR1088_2017.pdf"
+    url: "/docs/modulistica/BUR_DGR1188-2017.pdf"
     anno: 2017
     ente: Regione Umbria
     numero: 1188
@@ -208,9 +208,9 @@ docs:
   - title: Deliberazione della Giunta Regionale 26 marzo 2018, n. 274
     metaname: doc18
     oggetto: Accordo conferenza unificata del 22 febbraio 2018, n.18/CU. Recepimento ed adeguamento da parte della Regione Umbria di ulteriore modulistica unificata e standardizzata per la presentazione delle segnalazioni, comunicazioni ed istanze in materia di attività commerciali e assimilate.
-    categoria: deliberazioni
+    categoria: atti
     tema: semplificazione
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/modulistica/DGR-274_26-03-2018.zip"
+    url: "/docs/modulistica/DGR-274_26-03-2018.zip"
     anno: 2017
     ente: Regione Umbria
     numero: 274
@@ -269,9 +269,9 @@ docs:
   - title: Deliberazione della Giunta Regionale 29 dicembre 2015, n. 1656
     metaname: doc23
     oggetto: L.R. 10/2015. Articolo 2. Allegato A, paragrafo 1 lettera a) secondo alinea. Funzioni riallocate in regione in tema di Ambiente. Valutazioni ambientali AUA, AIA e VAS. Disposizioni attuative.
-    categoria: deliberazioni
+    categoria: atti
     tema: ambiente
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/docs/DGR_1656_29_12_2015.pdf"
+    url: "/docs/modulistica/DGR_1656_29_12_2015.pdf"
     anno: 2015
     ente: Regione Umbria
     numero: 1656
@@ -282,9 +282,9 @@ docs:
   - title: Deliberazione della Giunta Regionale 19 settembre 2018, n. 1024
     metaname: doc28
     oggetto: Direttiva tecnica regionale per la disciplina degli scarichi delle acque reflue - approvazione.
-    categoria: deliberazioni
+    categoria: atti
     tema: ambiente
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/docs/DGR_1024_19_09_2018_Bur.pdf"
+    url: "/docs/modulistica/DGR_1024_19_09_2018_Bur.pdf"
     anno: 2018
     ente: Regione Umbria
     numero: 1024
@@ -319,9 +319,9 @@ docs:
   - title: Determinazione dirigenziale 30 aprile 2019, n. 3971
     metaname: doc31
     oggetto: Modulistica unificata e standardizzata in materia di edilizia. Approvazione di modifiche e aggiornamenti.
-    categoria: determinazioni
+    categoria: atti
     tema: semplificazione
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/modulistica/BUR_DD3971_2019.pdf"
+    url: "/docs/modulistica/BUR_DD3971_2019.pdf"
     anno: 2019
     ente: Regione Umbria
     numero: 3971
@@ -332,9 +332,9 @@ docs:
   - title: Deliberazione della Giunta Regionale 29 novembre 2017, n. 12724
     metaname: doc32
     oggetto: Autorizzazione di carattere generale per le emissioni in atmosfera provenienti da stabilimenti con impianti ed attività in deroga ai sensi dell’art. 272, comma 2, del D.Lgs. n. 152/2006 e s.m. e i..
-    categoria: deliberazioni
+    categoria: atti
     tema: ambiente
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/modulistica/DD12724_2017.pdf"
+    url: "/docs/modulistica/DD12724_2017.pdf"
     anno: 2017
     ente: Regione Umbria
     numero: 12724
@@ -344,9 +344,9 @@ docs:
   - title: Deliberazione della Giunta Regionale 11 ottobre 2010, n. 1399
     metaname: doc33
     oggetto: Istituzione dell’Elenco regionale dei professionisti da invitare alle procedure negoziate per l’affidamento di servizi attinenti all’architettura e all’ingegneria di importo inferiore a centomila euro. Disciplina delle modalità di gestione e requisiti per l’iscrizione dei soggetti nell’Elenco.
-    categoria: deliberazioni
+    categoria: atti
     tema: operepubbliche
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/docs/DGR1399_2010.pdf"
+    url: "/docs/modulistica/DGR1399_2010.pdf"
     anno: 2010
     ente: Regione Umbria
     numero: 1399
@@ -356,9 +356,9 @@ docs:
   - title: Deliberazione della Giunta Regionale 23 marzo 2015, n. 341
     metaname: doc34
     oggetto: Elenco regionale dei professionisti di cui all’art. 21 della L.R. n. 3/2010 - Modifiche e integrazioni alla “Disciplina delle modalità di gestione e requisiti per l’iscrizione dei soggetti nell’Elenco regionale dei professionisti da invitare alle procedure negoziate per l’affidamento di servizi attinenti all’architettura e all’ingegneria di importo inferiore a centomila euro” approvata con deliberazione della Giunta regionale n. 1399/2010 con le tipologie di servizio di competenza degli archeologi e dei professionisti delle tecnologie dell’informazione e comunicazione e requisiti per l’iscrizione.
-    categoria: deliberazioni
+    categoria: atti
     tema: operepubbliche
-    url: "http://www.umbriageo.regione.umbria.it/AccessoUnico/docs/DGR341_2015.pdf"
+    url: "/docs/modulistica/DGR341_2015.pdf"
     anno: 2015
     ente: Regione Umbria
     numero: 341
@@ -368,7 +368,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 19 luglio 2019, n. 894
     metaname: doc35
     oggetto: Accordo Conferenza unificata del 17 aprile 2019, Repertorio n. 28/CU. Recepimento ed adeguamento da parte della Regione Umbria di moduli unificati e standardizzati per la presentazione delle segnalazioni, comunicazioni e istanze.
-    categoria: deliberazioni
+    categoria: atti
     tema: semplificazione
     url: "/docs/modulistica/BUR_DGR894_2019.pdf"
     anno: 2019
@@ -382,7 +382,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 27 settembre 2019, n. 1086
     metaname: doc36
     oggetto: Accordo Conferenza Unificata del 25 luglio 2019, Repertorio n. 73/CU. Recepimento ed adeguamento da parte della Regione Umbria di moduli unificati e standardizzati per la presentazione delle segnalazioni, comunicazioni e istanze.
-    categoria: deliberazioni
+    categoria: atti
     tema: semplificazione
     url: "/docs/modulistica/BUR_DGR1086_2019.pdf"
     anno: 2019
@@ -395,7 +395,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 26 febbraio 2020, n. 121
     metaname: doc37
     oggetto: Art. 21 della l.r. n. 3/2010 - Modifica della “Disciplina delle modalità di gestione e requisiti per l’iscrizione dei soggetti nell’Elenco regionale dei professionisti da invitare alle procedure negoziate per l’affidamento di servizi attinenti all’architettura e all’ingegneria di importo inferiore a centomila euro di cui alla legge regionale 21 gennaio 2010, n. 3 (Disciplina regionale dei lavori pubblici e norme in materia di regolarità contributiva per i lavori pubblici)” e ulteriori determinazioni.
-    categoria: deliberazioni
+    categoria: atti
     tema: operepubbliche
     url: "/docs/modulistica/DGR121_2020.pdf"
     anno: 2020
@@ -443,7 +443,7 @@ docs:
   - title: Deliberazione della Giunta Regionale 8 febbraio 2010, n. 203
     metaname: doc41
     oggetto: Approvazione degli elenchi degli Enti in possesso e non dei requisiti di legge per l’esercizio delle funzioni amministrative delegate concernenti il rilascio della autorizzazione paesaggistica ai sensi dell'art. 146 del Dlgs n.42 del 2004.
-    categoria: deliberazioni
+    categoria: atti
     tema: territorio
     url: "/docs/modulistica/DGR 203_2010.pdf"
     anno: 2010
@@ -463,3 +463,287 @@ docs:
     numero: 31
     tags:
         - autorizzazionepaesaggistica
+
+  - title: Regolamento (UE) 2016/2031 del Parlamento europeo e del Consiglio del 26 ottobre 2016
+    metaname: doc43
+    oggetto: Misure di protezione contro gli organismi nocivi per le piante, che modifica i regolamenti (UE) n. 228/2013, (UE) n. 652/2014 e (UE) n. 1143/2014 del Parlamento europeo e del Consiglio e abroga le direttive 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE e 2007/33/CE del Consiglio.
+    categoria: regolamenti
+    tema: agricoltura
+    url: "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32016R2031"
+    anno: 2016
+    ente:
+    numero: 2031
+    tags:
+        - certificazionefitosanitaria
+        - nullaostaimport
+        - ruop
+        - tariffafitosanitaria
+
+  - title: Decreto Legislativo 19 agosto 2005, n. 214
+    metaname: doc44
+    oggetto: Attuazione della direttiva 2002/89/CE concernente le misure di protezione contro l'introduzione e la diffusione nella Comunità di organismi nocivi ai vegetali o ai prodotti vegetali.
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;214"
+    anno: 2014
+    ente:
+    numero: 214
+    tags:
+        - certificazionefitosanitaria
+        - nullaostaimport
+        - ruop
+        - tariffafitosanitaria
+
+  - title: Decreto 4 giugno 1997
+    metaname: doc45
+    oggetto: Trasferimento alle Regioni del nulla – osta per l’importazione di materiale sementiero originario dei Paesi terzi.
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.regione.umbria.it/documents/18/1776226/D.M.+4+giugno+1997/4cfff2e8-e93d-42f5-8e11-34c6fe8b94b6"
+    anno: 1997
+    ente:
+    numero: 99
+    tags:
+        - certificazionefitosanitaria
+        - nullaostaimport
+
+  - title: Decreto 14 aprile 1997
+    metaname: doc46
+    oggetto: Recepimento delle direttive della Commissione n. 93/61/CEE del 2 luglio 1993 e n. 93/62/CEE del 5 luglio 1993, relative alle norme tecniche sulla commercializzazione delle piantine di ortaggi e dei materiali di moltiplicazione di ortaggi, ad eccezione delle sementi.
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.regione.umbria.it/documents/18/1776226/D.M.+4+aprile+1997+Commercializzazione+delle+piantine+di+ortaggi+e+dei+materiali+di+moltiplicazione+di+ortaggi+escluso+le+sementi/b0752d6d-6828-4989-9feb-3eff44c2f8e6"
+    anno: 1997
+    ente:
+    numero: 99
+    tags:
+        - certificazionefitosanitaria
+
+  - title: Decreto 14 aprile 1997
+    metaname: doc47
+    oggetto: Recepimento delle direttive della Commissione n. 93/48/CEE del 23 giugno 1993, n. 93/64/CEE del 5 luglio 1993 e n. 93/79/CEE del 21 settembre 1993, relative alle norme tecniche sulla commercializzazione dei materiali di moltiplicazione delle piante da frutto e delle piante da frutto destinate alla produzione di frutto.
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.regione.umbria.it/documents/18/1776226/D.M.+4+aprile+1997/2cd67a35-008b-4f98-aa2f-78f1e04747a5"
+    anno: 1997
+    ente:
+    numero: 126
+    tags:
+        - certificazionefitosanitaria
+
+  - title: Legge 28 luglio 2016, n. 154
+    metaname: doc48
+    oggetto: Deleghe al Governo e ulteriori disposizioni in semplificazione, razionalizzazione e competitività dei settori agricolo e agroalimentare, nonché sanzioni in materia di pesca illegale.
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016;154~art20-com1"
+    anno: 2016
+    ente:
+    numero: 154
+    tags:
+        - manutenzioneverde
+
+  - title: Accordo Stato-Regioni del 22 febbraio 2018
+    metaname: doc49
+    oggetto: Accordo, ai sensi dell’articolo 4 del d.lgs. 28 agosto 1997, n. 281, sul Documento relativo allo Standard professionale e formativo di manutentore del verde, predisposto in attuazione dell'articolo 12, comma 2, della legge 28 luglio 2016, n. 154.
+    categoria: normativa
+    tema: agricoltura
+    url: "http://www.regioni.it/news/2018/02/27/conferenza-stato-regioni-del-22-02-2018-accordo-sul-documento-relativo-allo-standard-professionale-e-formativo-di-manutentore-del-verde-552020/"
+    anno: 2018
+    ente:
+    numero: 50
+    tags:
+        - manutenzioneverde
+
+  - title: Deliberazione della Giunta Regionale 16 aprile 2020, n. 270
+    metaname: doc50
+    oggetto: Modifica della DGR 974 del 10/09/18 relativa all’”adozione del regolamento che stabilisce le modalità di attuazione dell’art. 12 della L. 154/16 - Esercizio dell'attività di manutenzione del verde “, proroga dei termini per la presentazione dell’istanza di riconoscimento di esenzione dalla formazione.
+    categoria: atti
+    tema: agricoltura
+    url: "/docs/modulistica/DGR_270_2020.pdf"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 270
+    tags:
+        - manutenzioneverde
+
+  - title: Deliberazione della Giunta Regionale 10 settembre 2018, n. 974
+    metaname: doc51
+    oggetto: Recepimento dell’accordo in conferenza Stato Regioni del 22 febbraio 2018 relativo allo “Standard Professionale e formativo per l’attività di Manutenzione del verde”(Repertorio atti n. 50/CSR del 22.02.2018 della Presidenza del Consiglio dei Ministri) e conseguente modifica della DGR n. 460 del 26.04.2017 che stabilisce le modalità di attuazione dell’art. 12 della L. 154/2016 - Esercizio dell'attività di manutenzione del verde.
+    categoria: atti
+    tema: agricoltura
+    url: "/docs/modulistica/DGR_974_2018.pdf"
+    anno: 2018
+    ente: Regione Umbria
+    numero: 974
+    tags:
+        - manutenzioneverde
+
+
+  - title: Determinazione Dirigenziale 12 dicembre 2019, n. 12846
+    metaname: doc52
+    oggetto: Applicazione dei Regolamenti (UE) 2016/2031 e (UE) 2017/625. Approvazione del Registro ufficiale degli operatori professionali (RUOP) con sede legale in Umbria.
+    categoria: atti
+    tema: agricoltura
+    url: "https://www.regione.umbria.it/documents/18/18849016/DD+12846+12.12.2019+RUOP.pdf/e28b388f-d35b-403f-a583-900a579928ee"
+    anno: 2019
+    ente: Regione Umbria
+    numero: 12846
+    tags:
+        - ruop
+        - tariffafitosanitaria
+
+  - title: Determinazione Dirigenziale 8 gennaio 2020, n. 38
+    metaname: doc53
+    oggetto: Applicazione dei Regolamenti (UE) 2016/2031 e (UE) 2017/625. Approvazione del Registro ufficiale degli operatori professionali (RUOP) con sede legale in Umbria – primo aggiornamento del registro pubblicato con DD 12846 del 12/12/2019.
+    categoria: atti
+    tema: agricoltura
+    url: "https://www.regione.umbria.it/documents/18/18849016/DD.+n.38+del+08_01_20.pdf/03b4bcfc-63ee-40fe-870d-e17359b3ff4b"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 38
+    tags:
+        - ruop
+        - tariffafitosanitaria
+
+  - title: Vademecum Tariffa Fitosanitaria
+    metaname: doc54
+    oggetto: Aggiornamenti e modalità operative per l'anno 2021
+    categoria: utility
+    tema: agricoltura
+    url: "https://www.regione.umbria.it/documents/18/1776256/tariffa+fitosanitaria+Umb.pdf/51f53899-22e7-4a2e-8a7e-7d28f10cae8e"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 99
+    tags:
+        - ruop
+        - tariffafitosanitaria
+
+  - title: Vademecum per l'esportazione
+    metaname: doc55
+    oggetto: Tariffe per l'esportazione dei vegetali e prodotti vegetali (D.M. 12 aprile 2006)
+    categoria: utility
+    tema: agricoltura
+    url: "https://www.regione.umbria.it/documents/18/24876523/Tariffe+per+esportazione.pdf/3a47307a-3d68-46d0-9c81-add820815c51"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 999
+    tags:
+        - certificazionefitosanitaria
+
+  - title: Legge 15 gennaio 1991, n. 30
+    metaname: doc56
+    oggetto: Disciplina della riproduzione animale
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.gazzettaufficiale.it/eli/id/1991/01/29/091G0052/sg"
+    anno: 1991
+    ente:
+    numero: 30
+    tags:
+        - elencostalloni
+        - autstazionemontaequina
+
+  - title: Legge 3 agosto 1999, n. 280
+    metaname: doc57
+    oggetto: Modifiche ed integrazioni alla legge 15 gennaio 1991, n. 30, recante disciplina della riproduzione animale, anche in attuazione della direttiva 94/28/CE del Consiglio del 23 giugno 1994
+    categoria: normativa
+    tema: agricoltura
+    url: "https://www.gazzettaufficiale.it/eli/id/1999/08/13/099G0356/sg"
+    anno: 1999
+    ente:
+    numero: 280
+    tags:
+        - elencostalloni
+        - autstazionemontaequina
+
+  - title: Regolamento regionale 27 febbraio 2003, n. 3
+    metaname: doc58
+    oggetto: Disciplina della riproduzione animale
+    categoria: normativa
+    tema: agricoltura
+    url: "http://leggi.crumbria.it/mostra_atto_stampabile.php?file=reg2003-03.xml"
+    anno: 2003
+    ente:
+    numero: 3
+    tags:
+        - elencostalloni
+        - autstazionemontaequina
+
+
+  - title: Legge regionale 22 ottobre 2008, n. 15
+    metaname: doc60
+    oggetto: Norme per la tutela e lo sviluppo del patrimonio ittico regionale, la salvaguardia degli ecosistemi acquatici, l'esercizio della pesca professionale e sportiva e dell'acquacoltura.
+    categoria: normativa
+    tema: cacciapesca
+    url: "http://leggi.crumbria.it/mostra_atto.php?id=35854&v=FI,SA,TE,IS,VE,RA,MM&m=5&datafine=20190101"
+    anno: 2008
+    ente: Regione Umbria
+    numero: 15
+    tags:
+        - zonepescaregolamentata
+        - licenzapescasportiva
+        - tesserinopesca
+
+  - title: Regolamento regionale 15 febbraio 2011, n. 2
+    metaname: doc61
+    oggetto: Disciplina dell'attività di pesca professionale e sportiva nelle acque interne.
+    categoria: regolamenti
+    tema: cacciapesca
+    url: "http://leggi.crumbria.it/mostra_atto_stampabile.php?file=reg2011-02.xml"
+    anno: 2011
+    ente: Regione Umbria
+    numero: 2
+    tags:
+        - zonepescaregolamentata
+        - licenzapescasportiva
+        - tesserinopesca
+
+  - title: Deliberazione della Giunta Regionale 28 marzo 2019, n. 356
+    metaname: doc62
+    oggetto: Modifica della DGR n. 114 del 12/02/2018, allegato A) e approvazione dell'elenco dei campi gara e delle zone di pesca alla carpa senza limiti d'orario.
+    categoria: atti
+    tema: cacciapesca
+    url: "https://www.regione.umbria.it/documents/18/473522/DGR+356+28-3-2019/a154b393-325d-4e27-a21a-a0011bd8cbba"
+    anno: 2019
+    ente: Regione Umbria
+    numero: 356
+    tags:
+        - zonepescaregolamentata
+
+
+  - title: Deliberazione della Giunta Regionale 8 maggio 2020, n. 342
+    metaname: doc63
+    oggetto: Modifica della Delibera di Giunta Regionale n. 356 del 28/03/2019, allegato B).
+    categoria: atti
+    tema: cacciapesca
+    url: "https://www.regione.umbria.it/documents/18/473522/DGR+342+del+8-5-2020/8d475f1a-e4c6-4210-b245-dfb9bf4f7e9d"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 342
+    tags:
+        - zonepescaregolamentata
+
+  - title: Determinazione Dirigenziale 6 ottobre 2020, n. 8824
+    metaname: doc64
+    oggetto: Titoli abilitativi edilizi. Aggiornamento della modulistica unificata.
+    categoria: atti
+    tema: semplificazione
+    url: "/docs/modulistica/DD8824_2020"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 8824
+    tags:
+        - ModulisticaUnificata
+
+  - title: Deliberazione della Giunta Regionale 9 settembre 2020, n. 805
+    metaname: doc65
+    oggetto: Modifica della Delibera di Giunta Regionale n. 342 del 8/05/2020 allegato b) LAGO DI PIEDILUCO e tratto del FIUME VELINO ricadente nel territorio umbro Zona a Regolamento Specifico.
+    categoria: atti
+    tema: cacciapesca
+    url: "/docs/modulistica/DD805_2020"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 805
+    tags:
+        - zonepescaregolamentata

@@ -1,1 +1,0 @@
-Si viene indirizzati alle pagine dei siti web dei 92 comuni dell'Umbria che trattano di PRG e Regolamento Edilizio, la selezione del Comune di interesse avviene cliccando su una mappa geografica oppure scegliendolo dalla lista proposta.

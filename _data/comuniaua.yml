@@ -75,7 +75,7 @@
   url: "https://suape.regione.umbria.it/sportelli"
 - name: Corciano
   metaname: corciano
-  url: "https://suape.regione.umbria.it/sportelli"
+  url: "https://suape.regione.umbria.it/frontend/index/C990/SS"
 - name: Costacciaro
   metaname: costacciaro
   url: "https://suape.regione.umbria.it/sportelli"
@@ -111,7 +111,7 @@
   url: "https://suape.regione.umbria.it/sportelli"
 - name: Gualdo Tadino
   metaname: gualdotadino
-  url: "https://suape.regione.umbria.it/frontend/info/E230/SS/3"
+  url: "https://suape.regione.umbria.it/frontend/info/E230/SS"
 - name: Guardea
   metaname: guardea
   url: "https://suape.regione.umbria.it/sportelli"
@@ -168,7 +168,7 @@
   url: "https://suape.regione.umbria.it/frontend/index/F844/SS"
 - name: Nocera Umbra
   metaname: noceraumbra
-  url: "https://suape.regione.umbria.it/sportelli"
+  url: "https://suape.regione.umbria.it/frontend/index/F911/SS"
 - name: Norcia
   metaname: norcia
   url: "https://suape.regione.umbria.it/sportelli"

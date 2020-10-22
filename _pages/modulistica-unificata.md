@@ -18,9 +18,9 @@ modulistica:
 
       - nome: CILA
         denominazione: Comunicazione inizio lavori asseverata - CILA
-        atto: DD n.3971 del 30/04/2019
-        release: 3
-        link: /docs/modulistica/27-3.pdf
+        atto: DD n.8824 del 06/10/2020
+        release: 4
+        link: /docs/modulistica/27-4.pdf
 
       - nome: Comunicazione fine lavori
         denominazione: Comunicazione fine lavori
@@ -30,9 +30,9 @@ modulistica:
 
       - nome: Dichiarazione che tiene luogo dell'agibilità
         denominazione: Dichiarazione che tiene luogo dell'agibilità
-        atto: DD n.3971 del 30/04/2019
-        release: 3
-        link: /docs/modulistica/29-3.pdf
+        atto: DD n.8824 del 06/10/2020
+        release: 4
+        link: /docs/modulistica/29-4.pdf
 
       - nome: Dichiarazione di conformità del piano attuativo
         denominazione: Dichiarazione di conformità del piano attuativo
@@ -42,9 +42,9 @@ modulistica:
 
       - nome: Dichiarazione per l'agibilità
         denominazione: Dichiarazione per l'agibilità
-        atto: DD n.3971 del 30/04/2019
-        release: 3
-        link: /docs/modulistica/31-3.pdf
+        atto: DD n.8824 del 06/10/2020
+        release: 4
+        link: /docs/modulistica/31-4.pdf
 
       - nome: Elaborati progettuali minimi necessari a corredo delle istanze per i titoli abitativi
         denominazione: Elaborati progettuali minimi necessari a corredo delle istanze di Permesso di costruire e di SCIA
@@ -54,15 +54,15 @@ modulistica:
 
       - nome: Modulo SCIA
         denominazione: Segnalazione certificata di inizio attività
-        atto: DD n.3971 del 30/04/2019
-        release: 3
-        link: /docs/modulistica/33-3.pdf
+        atto: DD n.8824 del 06/10/2020
+        release: 4
+        link: /docs/modulistica/33-4.pdf
 
       - nome: Permesso di costruire
         denominazione: Richiesta di permesso di costruire
-        atto: DD n.3971 del 30/04/2019
-        release: 3
-        link: /docs/modulistica/34-3.pdf
+        atto: DD n.8824 del 06/10/2020
+        release: 4
+        link: /docs/modulistica/34-4.pdf
 
       - nome: Soggetti coinvolti
         denominazione: Soggetti coinvolti
