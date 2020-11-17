@@ -758,4 +758,42 @@ docs:
     ente: Regione Umbria
     numero: 9503
     tags:
-        - ModulisticaUnificata      
+        - ModulisticaUnificata
+
+  - title: Legge regionale 17 maggio 1994, n. 14
+    metaname: doc67
+    oggetto: Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio.
+    categoria: normativa
+    tema: cacciapesca
+    url: "http://leggi.crumbria.it/mostra_atto.php?id=123377&v=FI,SA,TE,IS,VE,RA,MM&m=5"
+    anno: 1994
+    ente: Regione Umbria
+    numero: 14
+    tags:
+        - autcentriprivati
+        - autaziendevenatorie
+
+
+  - title: Regolamento regionale 9 agosto 1995, n. 34
+    metaname: doc68
+    oggetto: Disciplina degli allevamenti e dei centri pubblici e privati di riproduzione di fauna selvatica.
+    categoria: regolamenti
+    tema: cacciapesca
+    url: "http://leggi.crumbria.it/mostra_atto_stampabile.php?&file=reg1995-34.xml&datafine=19981203"
+    anno: 1995
+    ente: Regione Umbria
+    numero: 34
+    tags:
+        - autcentriprivati
+
+  - title: Regolamento regionale 9 agosto 1995, n. 35
+    metaname: doc69
+    oggetto: Norme per la gestione delle Aziende Faunistico-venatorie e agrituristico-venatorie.
+    categoria: regolamenti
+    tema: cacciapesca
+    url: "http://leggi.crumbria.it/mostra_atto_stampabile.php?&file=reg1995-35.xml&datafine=19990807"
+    anno: 1995
+    ente: Regione Umbria
+    numero: 35
+    tags:
+        - autaziendevenatorie
