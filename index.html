@@ -84,8 +84,8 @@ scripts:
     {% for scheda in all_schede %}
       "{{ scheda.items[0].object | slugify }}": {
         "title": "{{ scheda.items[0].title | xml_escape }}",
-        "tema": "{{ scheda.items[0].tema | xml_escape }}",
         "subtitle": "{{ scheda.items[0].subtitle | xml_escape }}",
+        "description": "{{ scheda.items[0].description | xml_escape }}",
         "url": "{{ scheda.items[0].url | xml_escape }}",
         "type": "scheda"
       }
