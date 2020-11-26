@@ -20,7 +20,7 @@ var idx = lunr(function () {
     let entry = {
       'metaname': key,
       'title': window.searchschede[key].title,
-      'tema': window.searchschede[key].tema,
+      'description': window.searchschede[key].description,
       'subtitle': window.searchschede[key].subtitle,
       'url': window.searchschede[key].url
     }
@@ -61,6 +61,8 @@ const formSubmit = function() {
   search_for = $('#home-cerca').val();
 
   const results = idx.search('*' + search_for + '*');
+  // const results = idx.search('tema:*' + search_for + '*^100 *' + search_for + '*');
+  console.log(results)
   displayResults(results);
 }
 
