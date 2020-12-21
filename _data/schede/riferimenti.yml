@@ -295,4 +295,26 @@ autaziendevenatorie:
     pec: "direzioneagricoltura.regione@postacert.umbria.it"
     nome_responsabile: "Luca Lucarelli"
     telefono_responsabile: "0755045203"
-    email_responsabile: "lucalucarelli@regione.umbria.it"      
+    email_responsabile: "lucalucarelli@regione.umbria.it"
+
+albotutori:
+    descrizione_direzione: "Direzione regionale Salute e Welfare "
+    nome_ufficio: "Servizio Amministrativo e Risorse umane del S.S.R."
+    indirizzo: "Via M. Angeloni n. 61 - 06124 Perugia"
+    telefono: "0755045219"
+    email: "lconti@regione.umbria.it"
+    pec: "direzionesanita.regione@postacert.umbria.it"
+    nome_responsabile: "Ivana Ranocchia"
+    telefono_responsabile: "0755045315"
+    email_responsabile: "iranocchia@regione.umbria.it"
+
+elencocoorddocenti:
+    descrizione_direzione: "Direzione regionale Salute e Welfare "
+    nome_ufficio: "Servizio Amministrativo e Risorse umane del S.S.R."
+    indirizzo: "Via M. Angeloni n. 61 - 06124 Perugia"
+    telefono: "0755045219"
+    email: "lconti@regione.umbria.it"
+    pec: "direzionesanita.regione@postacert.umbria.it"
+    nome_responsabile: "Ivana Ranocchia"
+    telefono_responsabile: "0755045315"
+    email_responsabile: "iranocchia@regione.umbria.it"

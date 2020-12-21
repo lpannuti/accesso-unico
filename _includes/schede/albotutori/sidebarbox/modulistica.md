@@ -1,2 +1,2 @@
-scarica il modello che ti interessa:
+scarica il modello:
 {% include modulisticaalbotutori_select.html %}

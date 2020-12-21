@@ -1,2 +1,2 @@
-scarica i modelli che ti interessano:
+scarica il modello:
 {% include modulisticaautcentriprivati_select.html %}
