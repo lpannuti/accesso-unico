@@ -747,3 +747,115 @@ docs:
     numero: 805
     tags:
         - zonepescaregolamentata
+
+  - title: Determinazione Dirigenziale 24 ottobre 2020, n. 9503
+    metaname: doc66
+    oggetto: Titoli abilitativi edilizi. Aggiornamento della modulistica unificata. Integrazioni.
+    categoria: atti
+    tema: semplificazione
+    url: "/docs/modulistica/DD9503_2020"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 9503
+    tags:
+        - ModulisticaUnificata
+
+  - title: Legge regionale 17 maggio 1994, n. 14
+    metaname: doc67
+    oggetto: Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio.
+    categoria: normativa
+    tema: cacciapesca
+    url: "http://leggi.crumbria.it/mostra_atto.php?id=123377&v=FI,SA,TE,IS,VE,RA,MM&m=5"
+    anno: 1994
+    ente: Regione Umbria
+    numero: 14
+    tags:
+        - autcentriprivati
+        - autaziendevenatorie
+
+
+  - title: Regolamento regionale 9 agosto 1995, n. 34
+    metaname: doc68
+    oggetto: Disciplina degli allevamenti e dei centri pubblici e privati di riproduzione di fauna selvatica.
+    categoria: regolamenti
+    tema: cacciapesca
+    url: "http://leggi.crumbria.it/mostra_atto_stampabile.php?&file=reg1995-34.xml&datafine=19981203"
+    anno: 1995
+    ente: Regione Umbria
+    numero: 34
+    tags:
+        - autcentriprivati
+
+  - title: Regolamento regionale 9 agosto 1995, n. 35
+    metaname: doc69
+    oggetto: Norme per la gestione delle Aziende Faunistico-venatorie e agrituristico-venatorie.
+    categoria: regolamenti
+    tema: cacciapesca
+    url: "http://leggi.crumbria.it/mostra_atto_stampabile.php?&file=reg1995-35.xml&datafine=19990807"
+    anno: 1995
+    ente: Regione Umbria
+    numero: 35
+    tags:
+        - autaziendevenatorie
+
+  - title: D.Lgs 17 agosto 1999, n. 368
+    metaname: doc70
+    oggetto: Attuazione della direttiva 93/16/CEE in materia di libera circolazione dei medici e di reciproco riconoscimento dei loro diplomi, certificati ed altri titoli e delle direttive 97/50/CE, 98/21/CE, 98/63/CE e 99/46/CE che modificano la direttiva 93/16/CEE.
+    categoria: normativa
+    tema: salute
+    url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-08-17;368"
+    anno: 1999
+    ente:
+    numero: 368
+    tags:
+      - elencocoorddocenti
+      - albotutori
+
+  - title: Deliberazione della Giunta Regionale 25 febbraio 2008, n. 167
+    metaname: doc71
+    oggetto: Istituzione di un Elenco Regionale dei Coordinatori delle attività teoriche e pratiche e dei Docenti nei corsi di formazione specifica in Medicina Generale, ai sensi del D.Lgs. n. 368/1999 e s.i.m.
+    categoria: atti
+    tema: salute
+    url: "https://www.regione.umbria.it/documents/18/284403/DGR+167_08.rtf.pdf/8380fa08-db82-4d68-a784-842501f341e0"
+    anno: 2008
+    ente: Regione Umbria
+    numero: 167
+    tags:
+        - elencocoorddocenti
+
+  - title: Deliberazione della Giunta Regionale 3 giugno 2009, n. 780
+    metaname: doc72
+    oggetto: Albi ed elenchi regionali dei docenti, coordinatori, tutori ed animatori nei corsi di formazione specifica in Medicina Generale. Determinazioni.
+    categoria: atti
+    tema: salute
+    url: "https://www.regione.umbria.it/documents/18/284403/DGR780-09aggAlbi.pdf/340c0323-ac3a-45bd-b4bd-7d4bbf1242cd"
+    anno: 2009
+    ente: Regione Umbria
+    numero: 780
+    tags:
+        - elencocoorddocenti
+        - albotutori
+
+  - title: Determinazione Dirigenziale 24 settembre 2020, n. 8419
+    metaname: doc73
+    oggetto: Corsi di formazione specifica in medicina generale – Aggiornamento elenchi coordinatori, docenti e albo degli animatori di formazione.
+    categoria: atti
+    tema: salute
+    url: "https://www.regione.umbria.it/documents/18/3288160/DD8419-2020+Aggiornamento+elenchi+e+albo+animatori.pdf/0759914d-bd2f-41fe-ac6b-3900d65b829f"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 8419
+    tags:
+        - elencocoorddocenti
+
+  - title: Determinazione Dirigenziale 18 febbraio 2020, n. 1357
+    metaname: doc74
+    oggetto: Aggiornamento dell'Albo regionale dei medici tutori nei corsi di formazione specifica in medicina generale di cui alla d.g.r. n. 7235/1995.
+    categoria: atti
+    tema: salute
+    url: "https://www.regione.umbria.it/documents/18/3288160/DD+1357-2020+Aggiornamento+albo+tutori+MG/66717140-0c2e-4704-8a8e-1939d34e0800"
+    anno: 2020
+    ente: Regione Umbria
+    numero: 1357
+    tags:
+        - albotutori

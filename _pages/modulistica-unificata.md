@@ -54,9 +54,9 @@ modulistica:
 
       - nome: Modulo SCIA
         denominazione: Segnalazione certificata di inizio attività
-        atto: DD n.8824 del 06/10/2020
-        release: 4
-        link: /docs/modulistica/33-4.pdf
+        atto: DD n.9503 del 24/10/2020
+        release: 5
+        link: /docs/modulistica/33-5.pdf
 
       - nome: Permesso di costruire
         denominazione: Richiesta di permesso di costruire
